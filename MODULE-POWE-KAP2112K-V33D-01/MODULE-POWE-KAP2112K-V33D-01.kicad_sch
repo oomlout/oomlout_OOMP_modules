@@ -189,6 +189,11 @@
     (uuid fe124db5-d964-49ca-889e-1487f4364189)
   )
 
+  (text "MODULE-POWE\nKAP2112K-V33D-01\noom.lt/MPAP2112K" (at 127 80.01 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid 478c35ab-22c4-4fb4-a9fa-83bf2cba4698)
+  )
+
   (global_label "Vin" (shape input) (at 130.81 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0e80ad3a-cc19-4177-8b0a-c5fa4a90df9a)
