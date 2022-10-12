@@ -6,11 +6,11 @@ import OOMPtags
 newPart = OOMP.oompItem()
 
 oType = "MODULE"
-oSize = "POWE"
-oColor = "KAP2112K"
-oDesc = "V33D"
+oSize = "CONN"
+oColor = "DADB"
+oDesc = "PI16"
 oIndex = "01"
-hexId = "MP21123"
+hexId = "MCD16"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -19,8 +19,6 @@ newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
-newPart.addTag('matchingBlock','BLOCK-SENS-ACCEL-I2C-01')
-newPart.addTag('oompParts','U1,SENS-LG14-X-K345-01')
 
 
 ######  Common
