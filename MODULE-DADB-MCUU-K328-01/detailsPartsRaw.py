@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("MODULE-DADB-MCUU-K328-01")
+
+newPart.addTag('rawParts','Y1,Crystal_GND2,PinHeader_1x03_P2.54mm_Vertical,PinHeader_1x03_P2.54mm_Vertical,,,,')
+newPart.addTag('rawParts','C3,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,')
+newPart.addTag('rawParts','C4,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,')
+newPart.addTag('rawParts','U3,ATmega328P-M,QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,,,,')
+newPart.addTag('rawParts','U1,MODULE-CONN-DADB-PI16-01,MODULE-CONN-DADB-PI16-01,MODULE-CONN-DADB-PI16-01,,,,')
+newPart.addTag('rawParts','U4,MODULE-CONN-DADB-PI16-01,MODULE-CONN-DADB-PI16-01,MODULE-CONN-DADB-PI16-01,,,,')
+newPart.addTag('rawParts','C1,100nF,C_0603_1608Metric,C_0603_1608Metric,,,,')
+newPart.addTag('rawParts','C2,4.7uF,C_0603_1608Metric,C_0603_1608Metric,,,,')
+newPart.addTag('rawParts','R4,1k,R_0603_1608Metric,R_0603_1608Metric,,,,')
+newPart.addTag('rawParts','R2,1k,R_0603_1608Metric,R_0603_1608Metric,,,,')
+newPart.addTag('rawParts','R3,1k,R_0603_1608Metric,R_0603_1608Metric,,,,')
+newPart.addTag('rawParts','R1,1k,R_0603_1608Metric,R_0603_1608Metric,,,,')
+newPart.addTag('rawParts','D1,GREEN,LED_0603_1608Metric,LED_0603_1608Metric,,,,')
+newPart.addTag('rawParts','U2,MODULE-CONN-DADB-PI02-01,MODULE-CONN-DADB-PI02-01,MODULE-CONN-DADB-PI02-01,,,,')
+newPart.addTag('rawParts','SW1,SW_Push,SW_SPST_B3U-1000P,SW_SPST_B3U-1000P,,,,')

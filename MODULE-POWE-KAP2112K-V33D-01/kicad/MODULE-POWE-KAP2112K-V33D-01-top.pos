@@ -1,0 +1,10 @@
+### Module positions - created on Wed Oct 12 14:33:41 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                 PosX       PosY       Rot  Side
+C1        10uf         C_0805_2012Metric   136.8000  -101.9000  -90.0000  top
+C2        10uf         C_0805_2012Metric   142.4000  -101.9000   90.0000  top
+C3        100nf        C_0603_1608Metric   139.4000  -104.9000  180.0000  top
+U1        AP2112K-3.3  SOT-23-5            139.5500  -101.9700  -90.0000  top
+## End

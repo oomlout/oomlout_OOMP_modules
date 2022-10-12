@@ -367,8 +367,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "MODULE-POWE-KAP2112K-V33D-01.step",
+      "vrml": "MODULE-POWE-KAP2112K-V33D-01.wrl"
     },
     "page_layout_descr_file": ""
   },

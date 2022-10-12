@@ -1,0 +1,3984 @@
+#VRML V2.0 utf8
+DEF TXFM_1 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 0.00254 0.00254 0.00254
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF TXFM_2 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 54.133858 -40.354331 0.31496063
+ children [
+DEF TXFM_3 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF TXFM_4 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_1 Shape {
+ appearance DEF APP_1 Appearance {
+  material Material {
+   ambientIntensity 0.271
+   diffuseColor 0.824 0.81999999 0.78100002
+   emissiveColor 0 0 0
+   shininess 0.69999999
+   specularColor 0.32800001 0.25799999 0.17200001
+   transparency 0
+} }
+ geometry DEF FACE_1 IndexedFaceSet {
+  coord DEF COORD_1 Coordinate { point [
+  0.062999998 0.94500001 0,0.062999998 0.70899997 0,
+  -0.062999998 0.70899997 0,-0.062999998 0.94500001 0,
+  0.062999998 0.94500001 0,-0.062999998 0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_1 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_5 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_2 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_2 IndexedFaceSet {
+  coord DEF COORD_2 Coordinate { point [
+  -0.062999998 0.70899997 0.012,-0.062999998 0.94500001 0.012,
+  -0.062999998 0.70899997 0,-0.062999998 0.94500001 0.012,
+  -0.062999998 0.94500001 0,-0.062999998 0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_2 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_6 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_3 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_3 IndexedFaceSet {
+  coord DEF COORD_3 Coordinate { point [
+  0.062999998 0.70899997 0.012,-0.062999998 0.70899997 0.012,
+  0.062999998 0.70899997 0,-0.062999998 0.70899997 0.012,
+  -0.062999998 0.70899997 0,0.062999998 0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_3 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_7 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_4 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_4 IndexedFaceSet {
+  coord DEF COORD_4 Coordinate { point [
+  0.062999998 0.94500001 0.012,0.062999998 0.70899997 0.012,
+  0.062999998 0.94500001 0,0.062999998 0.70899997 0.012,
+  0.062999998 0.70899997 0,0.062999998 0.94500001 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_4 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_8 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_5 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_5 IndexedFaceSet {
+  coord DEF COORD_5 Coordinate { point [
+  -0.062999998 0.94500001 0.012,0.062999998 0.94500001 0.012,
+  -0.062999998 0.94500001 0,0.062999998 0.94500001 0.012,
+  0.062999998 0.94500001 0,-0.062999998 0.94500001 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_5 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_9 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_6 Shape {
+ appearance DEF APP_2 Appearance {
+  material Material {
+   ambientIntensity 0.29300004
+   diffuseColor 0.148 0.145 0.145
+   emissiveColor 0 0 0
+   shininess 0.34999999
+   specularColor 0.18000001 0.168 0.16
+   transparency 0
+} }
+ geometry DEF FACE_6 IndexedFaceSet {
+  coord DEF COORD_6 Coordinate { point [
+  -0.591 0.98400003 0.012,-0.55099998 0.84999997 0.012,
+  -0.55099998 0.72399997 0.012,0.31499999 0.40899999 0.012,
+  0.55099998 0.40899999 0.012,0.55099998 0.21999999 0.012,
+  0.31499999 0.21999999 0.012,0.31499999 0.40899999 0.012,
+  0.55099998 0.21999999 0.012,-0.55099998 0.84999997 0.012,
+  -0.591 0.98400003 0.012,-0.31499999 0.84999997 0.012,
+  -0.55099998 -0.21999999 0.012,-0.55099998 -0.40899999 0.012,
+  -0.591 -0.98400003 0.012,-0.55099998 -0.72399997 0.012,
+  -0.55099998 -0.84999997 0.012,-0.591 -0.98400003 0.012,
+  -0.55099998 -0.40899999 0.012,-0.55099998 -0.53500003 0.012,
+  -0.591 -0.98400003 0.012,-0.591 0.98400003 0.012,
+  -0.55099998 0.72399997 0.012,-0.55099998 0.53500003 0.012,
+  -0.55099998 -0.53500003 0.012,-0.55099998 -0.72399997 0.012,
+  -0.591 -0.98400003 0.012,-0.31499999 0.093999998 0.012,
+  0.31499999 0.093999998 0.012,0.31499999 -0.093999998 0.012,
+  -0.31499999 -0.093999998 0.012,-0.31499999 0.093999998 0.012,
+  0.31499999 -0.093999998 0.012,-0.31499999 0.84999997 0.012,
+  -0.591 0.98400003 0.012,-0.062999998 0.94500001 0.012,
+  -0.55099998 -0.53500003 0.012,-0.31499999 -0.53500003 0.012,
+  -0.31499999 -0.72399997 0.012,-0.55099998 -0.72399997 0.012,
+  -0.55099998 -0.53500003 0.012,-0.31499999 -0.72399997 0.012,
+  -0.591 0.98400003 0.012,-0.55099998 0.53500003 0.012,
+  -0.55099998 0.40899999 0.012,-0.31499999 -0.093999998 0.012,
+  0.31499999 -0.093999998 0.012,0.31499999 -0.21999999 0.012,
+  -0.55099998 0.72399997 0.012,-0.31499999 0.72399997 0.012,
+  -0.31499999 0.53500003 0.012,-0.31499999 -0.21999999 0.012,
+  -0.31499999 -0.093999998 0.012,0.31499999 -0.21999999 0.012,
+  -0.55099998 0.53500003 0.012,-0.55099998 0.72399997 0.012,
+  -0.31499999 0.53500003 0.012,-0.31499999 0.72399997 0.012,
+  -0.31499999 0.84999997 0.012,-0.062999998 0.70899997 0.012,
+  -0.31499999 0.84999997 0.012,-0.062999998 0.94500001 0.012,
+  -0.062999998 0.70899997 0.012,-0.591 -0.98400003 0.012,
+  -0.55099998 -0.84999997 0.012,-0.31499999 -0.84999997 0.012,
+  -0.31499999 0.53500003 0.012,-0.31499999 0.72399997 0.012,
+  -0.062999998 0.70899997 0.012,-0.591 0.98400003 0.012,
+  -0.55099998 0.40899999 0.012,-0.55099998 0.21999999 0.012,
+  0.31499999 0.093999998 0.012,0.55099998 0.093999998 0.012,
+  0.55099998 -0.093999998 0.012,0.31499999 -0.093999998 0.012,
+  0.31499999 0.093999998 0.012,0.55099998 -0.093999998 0.012,
+  -0.31499999 0.53500003 0.012,-0.062999998 0.70899997 0.012,
+  -0.31499999 0.40899999 0.012,-0.31499999 -0.84999997 0.012,
+  -0.31499999 -0.72399997 0.012,-0.062999998 -0.70899997 0.012,
+  -0.31499999 -0.72399997 0.012,-0.31499999 -0.53500003 0.012,
+  -0.062999998 -0.70899997 0.012,-0.31499999 -0.53500003 0.012,
+  -0.31499999 -0.40899999 0.012,-0.062999998 -0.70899997 0.012,
+  -0.31499999 -0.21999999 0.012,0.31499999 -0.21999999 0.012,
+  0.31499999 -0.40899999 0.012,-0.31499999 -0.40899999 0.012,
+  -0.31499999 -0.21999999 0.012,0.31499999 -0.40899999 0.012,
+  0.062999998 0.70899997 0.012,0.062999998 0.94500001 0.012,
+  0.31499999 0.84999997 0.012,-0.062999998 -0.70899997 0.012,
+  -0.31499999 -0.40899999 0.012,0.062999998 -0.70899997 0.012,
+  -0.31499999 -0.40899999 0.012,0.31499999 -0.40899999 0.012,
+  0.062999998 -0.70899997 0.012,-0.55099998 0.40899999 0.012,
+  -0.31499999 0.40899999 0.012,-0.31499999 0.21999999 0.012,
+  -0.55099998 0.21999999 0.012,-0.55099998 0.40899999 0.012,
+  -0.31499999 0.21999999 0.012,0.062999998 -0.70899997 0.012,
+  0.31499999 -0.40899999 0.012,0.31499999 -0.53500003 0.012,
+  0.062999998 0.70899997 0.012,0.31499999 0.84999997 0.012,
+  0.31499999 0.72399997 0.012,-0.31499999 -0.84999997 0.012,
+  -0.062999998 -0.70899997 0.012,-0.062999998 -0.94500001 0.012,
+  -0.591 -0.98400003 0.012,-0.31499999 -0.84999997 0.012,
+  -0.062999998 -0.94500001 0.012,0.31499999 -0.21999999 0.012,
+  0.55099998 -0.21999999 0.012,0.55099998 -0.40899999 0.012,
+  0.31499999 -0.40899999 0.012,0.31499999 -0.21999999 0.012,
+  0.55099998 -0.40899999 0.012,0.31499999 0.84999997 0.012,
+  0.062999998 0.94500001 0.012,0.591 0.98400003 0.012,
+  0.31499999 0.84999997 0.012,0.591 0.98400003 0.012,
+  0.55099998 0.84999997 0.012,0.062999998 -0.70899997 0.012,
+  0.31499999 -0.53500003 0.012,0.31499999 -0.72399997 0.012,
+  0.062999998 0.70899997 0.012,0.31499999 0.72399997 0.012,
+  0.31499999 0.53500003 0.012,0.062999998 -0.94500001 0.012,
+  0.062999998 -0.70899997 0.012,0.31499999 -0.84999997 0.012,
+  -0.55099998 -0.093999998 0.012,-0.55099998 0.093999998 0.012,
+  -0.31499999 -0.093999998 0.012,0.062999998 -0.70899997 0.012,
+  0.31499999 -0.72399997 0.012,0.31499999 -0.84999997 0.012,
+  -0.55099998 0.093999998 0.012,-0.31499999 0.093999998 0.012,
+  -0.31499999 -0.093999998 0.012,0.31499999 -0.53500003 0.012,
+  0.55099998 -0.53500003 0.012,0.55099998 -0.72399997 0.012,
+  0.55099998 0.84999997 0.012,0.591 0.98400003 0.012,
+  0.55099998 0.72399997 0.012,0.31499999 -0.72399997 0.012,
+  0.31499999 -0.53500003 0.012,0.55099998 -0.72399997 0.012,
+  0.31499999 -0.84999997 0.012,0.55099998 -0.84999997 0.012,
+  0.591 -0.98400003 0.012,0.55099998 -0.84999997 0.012,
+  0.55099998 -0.72399997 0.012,0.591 -0.98400003 0.012,
+  0.062999998 -0.94500001 0.012,0.31499999 -0.84999997 0.012,
+  0.591 -0.98400003 0.012,-0.062999998 0.70899997 0.012,
+  0.062999998 0.70899997 0.012,0.31499999 0.40899999 0.012,
+  0.062999998 0.94500001 0.012,-0.591 0.98400003 0.012,
+  0.591 0.98400003 0.012,-0.31499999 0.40899999 0.012,
+  -0.062999998 0.70899997 0.012,0.31499999 0.40899999 0.012,
+  -0.062999998 0.94500001 0.012,-0.591 0.98400003 0.012,
+  0.062999998 0.94500001 0.012,0.55099998 0.21999999 0.012,
+  0.591 0.98400003 0.012,0.591 -0.98400003 0.012,
+  0.062999998 0.70899997 0.012,0.31499999 0.53500003 0.012,
+  0.31499999 0.40899999 0.012,0.55099998 0.40899999 0.012,
+  0.591 0.98400003 0.012,0.55099998 0.21999999 0.012,
+  0.55099998 0.53500003 0.012,0.591 0.98400003 0.012,
+  0.55099998 0.40899999 0.012,0.55099998 0.72399997 0.012,
+  0.591 0.98400003 0.012,0.55099998 0.53500003 0.012,
+  0.55099998 0.093999998 0.012,0.55099998 0.21999999 0.012,
+  0.591 -0.98400003 0.012,0.55099998 -0.093999998 0.012,
+  0.55099998 0.093999998 0.012,0.591 -0.98400003 0.012,
+  0.55099998 -0.21999999 0.012,0.55099998 -0.093999998 0.012,
+  0.591 -0.98400003 0.012,0.55099998 -0.40899999 0.012,
+  0.55099998 -0.21999999 0.012,0.591 -0.98400003 0.012,
+  0.55099998 -0.53500003 0.012,0.55099998 -0.40899999 0.012,
+  0.591 -0.98400003 0.012,0.55099998 -0.72399997 0.012,
+  0.55099998 -0.53500003 0.012,0.591 -0.98400003 0.012,
+  -0.55099998 -0.093999998 0.012,-0.591 -0.98400003 0.012,
+  -0.591 0.98400003 0.012,-0.55099998 -0.21999999 0.012,
+  -0.591 -0.98400003 0.012,-0.55099998 -0.093999998 0.012,
+  -0.55099998 0.093999998 0.012,-0.55099998 -0.093999998 0.012,
+  -0.591 0.98400003 0.012,-0.55099998 0.21999999 0.012,
+  -0.55099998 0.093999998 0.012,-0.591 0.98400003 0.012,
+  0.062999998 -0.94500001 0.012,0.591 -0.98400003 0.012,
+  -0.591 -0.98400003 0.012,0.31499999 0.72399997 0.012,
+  0.55099998 0.72399997 0.012,0.55099998 0.53500003 0.012,
+  -0.062999998 -0.94500001 0.012,0.062999998 -0.94500001 0.012,
+  -0.591 -0.98400003 0.012,0.31499999 0.53500003 0.012,
+  0.31499999 0.72399997 0.012,0.55099998 0.53500003 0.012,
+  -0.31499999 0.40899999 0.012,0.31499999 0.40899999 0.012,
+  0.31499999 0.21999999 0.012,-0.31499999 0.21999999 0.012,
+  -0.31499999 0.40899999 0.012,0.31499999 0.21999999 0.012,
+  -0.55099998 -0.40899999 0.012,-0.55099998 -0.21999999 0.012,
+  -0.31499999 -0.40899999 0.012,-0.55099998 -0.21999999 0.012,
+  -0.31499999 -0.21999999 0.012,-0.31499999 -0.40899999 0.012,
+  -0.31499999 0.21999999 0.012,0.31499999 0.21999999 0.012,
+  0.31499999 0.093999998 0.012,-0.31499999 0.093999998 0.012,
+  -0.31499999 0.21999999 0.012,0.31499999 0.093999998 0.012] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1,6,7,8,-1,9,10,11,-1,12,13,14,-1,15,16,17,-1,18,19,20,-1,21,22,23,-1,
+  24,25,26,-1,27,28,29,-1,30,31,32,-1,33,34,35,-1,36,37,38,-1,39,40,41,-1,42,43,44,-1,45,46,47,-1,
+  48,49,50,-1,51,52,53,-1,54,55,56,-1,57,58,59,-1,60,61,62,-1,63,64,65,-1,66,67,68,-1,69,70,71,-1,
+  72,73,74,-1,75,76,77,-1,78,79,80,-1,81,82,83,-1,84,85,86,-1,87,88,89,-1,90,91,92,-1,93,94,95,-1,
+  96,97,98,-1,99,100,101,-1,102,103,104,-1,105,106,107,-1,108,109,110,-1,111,112,113,-1,114,115,116,-1,117,118,119,-1,
+  120,121,122,-1,123,124,125,-1,126,127,128,-1,129,130,131,-1,132,133,134,-1,135,136,137,-1,138,139,140,-1,141,142,143,-1,
+  144,145,146,-1,147,148,149,-1,150,151,152,-1,153,154,155,-1,156,157,158,-1,159,160,161,-1,162,163,164,-1,165,166,167,-1,
+  168,169,170,-1,171,172,173,-1,174,175,176,-1,177,178,179,-1,180,181,182,-1,183,184,185,-1,186,187,188,-1,189,190,191,-1,
+  192,193,194,-1,195,196,197,-1,198,199,200,-1,201,202,203,-1,204,205,206,-1,207,208,209,-1,210,211,212,-1,213,214,215,-1,
+  216,217,218,-1,219,220,221,-1,222,223,224,-1,225,226,227,-1,228,229,230,-1,231,232,233,-1,234,235,236,-1,237,238,239,-1,
+  240,241,242,-1,243,244,245,-1,246,247,248,-1,249,250,251,-1,252,253,254,-1,255,256,257,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_6 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_10 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_7 Shape {
+ appearance USE APP_2
+ geometry DEF FACE_7 IndexedFaceSet {
+  coord DEF COORD_7 Coordinate { point [
+  0.591 0.98400003 0.30700001,0.591 0.98400003 0.012,
+  -0.591 0.98400003 0.30700001,0.591 0.98400003 0.012,
+  -0.591 0.98400003 0.012,-0.591 0.98400003 0.30700001] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_7 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_11 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_8 Shape {
+ appearance USE APP_2
+ geometry DEF FACE_8 IndexedFaceSet {
+  coord DEF COORD_8 Coordinate { point [
+  0.591 -0.98400003 0.30700001,0.591 -0.98400003 0.012,
+  0.591 0.98400003 0.012,0.591 -0.98400003 0.30700001,
+  0.591 0.98400003 0.012,0.591 0.98400003 0.30700001] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_8 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_12 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_9 Shape {
+ appearance USE APP_2
+ geometry DEF FACE_9 IndexedFaceSet {
+  coord DEF COORD_9 Coordinate { point [
+  -0.591 0.98400003 0.012,-0.591 -0.98400003 0.012,
+  -0.591 -0.98400003 0.30700001,-0.591 0.98400003 0.30700001,
+  -0.591 0.98400003 0.012,-0.591 -0.98400003 0.30700001] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_9 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_13 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_10 Shape {
+ appearance USE APP_2
+ geometry DEF FACE_10 IndexedFaceSet {
+  coord DEF COORD_10 Coordinate { point [
+  -0.591 -0.98400003 0.30700001,0.591 -0.98400003 0.012,
+  0.591 -0.98400003 0.30700001,-0.591 -0.98400003 0.30700001,
+  -0.591 -0.98400003 0.012,0.591 -0.98400003 0.012] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_10 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_14 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_11 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_11 IndexedFaceSet {
+  coord DEF COORD_11 Coordinate { point [
+  0.31499999 -0.093999998 0.012,0.55099998 -0.093999998 0.012,
+  0.31499999 -0.093999998 0,0.55099998 -0.093999998 0.012,
+  0.55099998 -0.093999998 0,0.31499999 -0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_11 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_15 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_12 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_12 IndexedFaceSet {
+  coord DEF COORD_12 Coordinate { point [
+  0.31499999 -0.21999999 0.012,0.31499999 -0.093999998 0.012,
+  0.31499999 -0.21999999 0,0.31499999 -0.093999998 0.012,
+  0.31499999 -0.093999998 0,0.31499999 -0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_12 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_16 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_13 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_13 IndexedFaceSet {
+  coord DEF COORD_13 Coordinate { point [
+  0.55099998 -0.093999998 0.012,0.55099998 -0.21999999 0.012,
+  0.55099998 -0.093999998 0,0.55099998 -0.21999999 0.012,
+  0.55099998 -0.21999999 0,0.55099998 -0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_13 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_17 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_14 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_14 IndexedFaceSet {
+  coord DEF COORD_14 Coordinate { point [
+  0.55099998 -0.21999999 0.012,0.31499999 -0.21999999 0.012,
+  0.55099998 -0.21999999 0,0.31499999 -0.21999999 0.012,
+  0.31499999 -0.21999999 0,0.55099998 -0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_14 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_18 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_15 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_15 IndexedFaceSet {
+  coord DEF COORD_15 Coordinate { point [
+  0.55099998 0.21999999 0.012,0.55099998 0.093999998 0.012,
+  0.55099998 0.21999999 0,0.55099998 0.093999998 0.012,
+  0.55099998 0.093999998 0,0.55099998 0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_15 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_19 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_16 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_16 IndexedFaceSet {
+  coord DEF COORD_16 Coordinate { point [
+  0.31499999 0.21999999 0.012,0.55099998 0.21999999 0.012,
+  0.31499999 0.21999999 0,0.55099998 0.21999999 0.012,
+  0.55099998 0.21999999 0,0.31499999 0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_16 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_20 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_17 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_17 IndexedFaceSet {
+  coord DEF COORD_17 Coordinate { point [
+  0.55099998 0.093999998 0.012,0.31499999 0.093999998 0.012,
+  0.55099998 0.093999998 0,0.31499999 0.093999998 0.012,
+  0.31499999 0.093999998 0,0.55099998 0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_17 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_21 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_18 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_18 IndexedFaceSet {
+  coord DEF COORD_18 Coordinate { point [
+  0.31499999 0.093999998 0.012,0.31499999 0.21999999 0.012,
+  0.31499999 0.093999998 0,0.31499999 0.21999999 0.012,
+  0.31499999 0.21999999 0,0.31499999 0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_18 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_22 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_19 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_19 IndexedFaceSet {
+  coord DEF COORD_19 Coordinate { point [
+  -0.31499999 0.21999999 0.012,-0.31499999 0.093999998 0.012,
+  -0.31499999 0.21999999 0,-0.31499999 0.093999998 0.012,
+  -0.31499999 0.093999998 0,-0.31499999 0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_19 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_23 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_20 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_20 IndexedFaceSet {
+  coord DEF COORD_20 Coordinate { point [
+  -0.55099998 0.21999999 0.012,-0.31499999 0.21999999 0.012,
+  -0.55099998 0.21999999 0,-0.31499999 0.21999999 0.012,
+  -0.31499999 0.21999999 0,-0.55099998 0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_20 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_24 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_21 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_21 IndexedFaceSet {
+  coord DEF COORD_21 Coordinate { point [
+  -0.31499999 0.093999998 0.012,-0.55099998 0.093999998 0.012,
+  -0.31499999 0.093999998 0,-0.55099998 0.093999998 0.012,
+  -0.55099998 0.093999998 0,-0.31499999 0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_21 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_25 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_22 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_22 IndexedFaceSet {
+  coord DEF COORD_22 Coordinate { point [
+  -0.55099998 0.093999998 0.012,-0.55099998 0.21999999 0.012,
+  -0.55099998 0.093999998 0,-0.55099998 0.21999999 0.012,
+  -0.55099998 0.21999999 0,-0.55099998 0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_22 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_26 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_23 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_23 IndexedFaceSet {
+  coord DEF COORD_23 Coordinate { point [
+  -0.55099998 -0.093999998 0.012,-0.31499999 -0.093999998 0.012,
+  -0.55099998 -0.093999998 0,-0.31499999 -0.093999998 0.012,
+  -0.31499999 -0.093999998 0,-0.55099998 -0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_23 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_27 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_24 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_24 IndexedFaceSet {
+  coord DEF COORD_24 Coordinate { point [
+  -0.55099998 -0.21999999 0.012,-0.55099998 -0.093999998 0.012,
+  -0.55099998 -0.21999999 0,-0.55099998 -0.093999998 0.012,
+  -0.55099998 -0.093999998 0,-0.55099998 -0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_24 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_28 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_25 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_25 IndexedFaceSet {
+  coord DEF COORD_25 Coordinate { point [
+  -0.31499999 -0.093999998 0.012,-0.31499999 -0.21999999 0.012,
+  -0.31499999 -0.093999998 0,-0.31499999 -0.21999999 0.012,
+  -0.31499999 -0.21999999 0,-0.31499999 -0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_25 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_29 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_26 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_26 IndexedFaceSet {
+  coord DEF COORD_26 Coordinate { point [
+  -0.31499999 -0.21999999 0.012,-0.55099998 -0.21999999 0.012,
+  -0.31499999 -0.21999999 0,-0.55099998 -0.21999999 0.012,
+  -0.55099998 -0.21999999 0,-0.31499999 -0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_26 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_30 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_27 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_27 IndexedFaceSet {
+  coord DEF COORD_27 Coordinate { point [
+  0.55099998 0.53500003 0.012,0.55099998 0.40899999 0.012,
+  0.55099998 0.53500003 0,0.55099998 0.40899999 0.012,
+  0.55099998 0.40899999 0,0.55099998 0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_27 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_31 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_28 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_28 IndexedFaceSet {
+  coord DEF COORD_28 Coordinate { point [
+  0.31499999 0.53500003 0.012,0.55099998 0.53500003 0.012,
+  0.31499999 0.53500003 0,0.55099998 0.53500003 0.012,
+  0.55099998 0.53500003 0,0.31499999 0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_28 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_32 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_29 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_29 IndexedFaceSet {
+  coord DEF COORD_29 Coordinate { point [
+  0.55099998 0.40899999 0.012,0.31499999 0.40899999 0.012,
+  0.55099998 0.40899999 0,0.31499999 0.40899999 0.012,
+  0.31499999 0.40899999 0,0.55099998 0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_29 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_33 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_30 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_30 IndexedFaceSet {
+  coord DEF COORD_30 Coordinate { point [
+  0.31499999 0.40899999 0.012,0.31499999 0.53500003 0.012,
+  0.31499999 0.40899999 0,0.31499999 0.53500003 0.012,
+  0.31499999 0.53500003 0,0.31499999 0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_30 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_34 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_31 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_31 IndexedFaceSet {
+  coord DEF COORD_31 Coordinate { point [
+  -0.55099998 0.53500003 0.012,-0.31499999 0.53500003 0.012,
+  -0.55099998 0.53500003 0,-0.31499999 0.53500003 0.012,
+  -0.31499999 0.53500003 0,-0.55099998 0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_31 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_35 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_32 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_32 IndexedFaceSet {
+  coord DEF COORD_32 Coordinate { point [
+  -0.55099998 0.40899999 0.012,-0.55099998 0.53500003 0.012,
+  -0.55099998 0.40899999 0,-0.55099998 0.53500003 0.012,
+  -0.55099998 0.53500003 0,-0.55099998 0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_32 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_36 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_33 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_33 IndexedFaceSet {
+  coord DEF COORD_33 Coordinate { point [
+  -0.31499999 0.53500003 0.012,-0.31499999 0.40899999 0.012,
+  -0.31499999 0.53500003 0,-0.31499999 0.40899999 0.012,
+  -0.31499999 0.40899999 0,-0.31499999 0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_33 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_37 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_34 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_34 IndexedFaceSet {
+  coord DEF COORD_34 Coordinate { point [
+  -0.31499999 0.40899999 0.012,-0.55099998 0.40899999 0.012,
+  -0.31499999 0.40899999 0,-0.55099998 0.40899999 0.012,
+  -0.55099998 0.40899999 0,-0.31499999 0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_34 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_38 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_35 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_35 IndexedFaceSet {
+  coord DEF COORD_35 Coordinate { point [
+  -0.31499999 -0.72399997 0.012,-0.31499999 -0.84999997 0.012,
+  -0.31499999 -0.72399997 0,-0.31499999 -0.84999997 0.012,
+  -0.31499999 -0.84999997 0,-0.31499999 -0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_35 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_39 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_36 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_36 IndexedFaceSet {
+  coord DEF COORD_36 Coordinate { point [
+  -0.55099998 -0.72399997 0.012,-0.31499999 -0.72399997 0.012,
+  -0.55099998 -0.72399997 0,-0.31499999 -0.72399997 0.012,
+  -0.31499999 -0.72399997 0,-0.55099998 -0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_36 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_40 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_37 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_37 IndexedFaceSet {
+  coord DEF COORD_37 Coordinate { point [
+  -0.31499999 -0.84999997 0.012,-0.55099998 -0.84999997 0.012,
+  -0.31499999 -0.84999997 0,-0.55099998 -0.84999997 0.012,
+  -0.55099998 -0.84999997 0,-0.31499999 -0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_37 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_41 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_38 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_38 IndexedFaceSet {
+  coord DEF COORD_38 Coordinate { point [
+  -0.55099998 -0.84999997 0.012,-0.55099998 -0.72399997 0.012,
+  -0.55099998 -0.84999997 0,-0.55099998 -0.72399997 0.012,
+  -0.55099998 -0.72399997 0,-0.55099998 -0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_38 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_42 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_39 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_39 IndexedFaceSet {
+  coord DEF COORD_39 Coordinate { point [
+  -0.31499999 -0.53500003 0.012,-0.55099998 -0.53500003 0.012,
+  -0.31499999 -0.53500003 0,-0.55099998 -0.53500003 0.012,
+  -0.55099998 -0.53500003 0,-0.31499999 -0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_39 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_43 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_40 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_40 IndexedFaceSet {
+  coord DEF COORD_40 Coordinate { point [
+  -0.31499999 -0.40899999 0.012,-0.31499999 -0.53500003 0.012,
+  -0.31499999 -0.40899999 0,-0.31499999 -0.53500003 0.012,
+  -0.31499999 -0.53500003 0,-0.31499999 -0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_40 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_44 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_41 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_41 IndexedFaceSet {
+  coord DEF COORD_41 Coordinate { point [
+  -0.55099998 -0.53500003 0.012,-0.55099998 -0.40899999 0.012,
+  -0.55099998 -0.53500003 0,-0.55099998 -0.40899999 0.012,
+  -0.55099998 -0.40899999 0,-0.55099998 -0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_41 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_45 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_42 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_42 IndexedFaceSet {
+  coord DEF COORD_42 Coordinate { point [
+  -0.55099998 -0.40899999 0.012,-0.31499999 -0.40899999 0.012,
+  -0.55099998 -0.40899999 0,-0.31499999 -0.40899999 0.012,
+  -0.31499999 -0.40899999 0,-0.55099998 -0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_42 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_46 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_43 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_43 IndexedFaceSet {
+  coord DEF COORD_43 Coordinate { point [
+  -0.062999998 -0.70899997 0.012,0.062999998 -0.70899997 0.012,
+  -0.062999998 -0.70899997 0,0.062999998 -0.70899997 0.012,
+  0.062999998 -0.70899997 0,-0.062999998 -0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_43 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_47 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_44 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_44 IndexedFaceSet {
+  coord DEF COORD_44 Coordinate { point [
+  -0.062999998 -0.94500001 0.012,-0.062999998 -0.70899997 0.012,
+  -0.062999998 -0.94500001 0,-0.062999998 -0.70899997 0.012,
+  -0.062999998 -0.70899997 0,-0.062999998 -0.94500001 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_44 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_48 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_45 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_45 IndexedFaceSet {
+  coord DEF COORD_45 Coordinate { point [
+  0.062999998 -0.70899997 0.012,0.062999998 -0.94500001 0.012,
+  0.062999998 -0.70899997 0,0.062999998 -0.94500001 0.012,
+  0.062999998 -0.94500001 0,0.062999998 -0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_45 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_49 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_46 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_46 IndexedFaceSet {
+  coord DEF COORD_46 Coordinate { point [
+  0.062999998 -0.94500001 0.012,-0.062999998 -0.94500001 0.012,
+  0.062999998 -0.94500001 0,-0.062999998 -0.94500001 0.012,
+  -0.062999998 -0.94500001 0,0.062999998 -0.94500001 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_46 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_50 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_47 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_47 IndexedFaceSet {
+  coord DEF COORD_47 Coordinate { point [
+  0.31499999 -0.40899999 0.012,0.55099998 -0.40899999 0.012,
+  0.31499999 -0.40899999 0,0.55099998 -0.40899999 0.012,
+  0.55099998 -0.40899999 0,0.31499999 -0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_47 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_51 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_48 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_48 IndexedFaceSet {
+  coord DEF COORD_48 Coordinate { point [
+  0.31499999 -0.53500003 0.012,0.31499999 -0.40899999 0.012,
+  0.31499999 -0.53500003 0,0.31499999 -0.40899999 0.012,
+  0.31499999 -0.40899999 0,0.31499999 -0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_48 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_52 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_49 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_49 IndexedFaceSet {
+  coord DEF COORD_49 Coordinate { point [
+  0.55099998 -0.40899999 0.012,0.55099998 -0.53500003 0.012,
+  0.55099998 -0.40899999 0,0.55099998 -0.53500003 0.012,
+  0.55099998 -0.53500003 0,0.55099998 -0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_49 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_53 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_50 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_50 IndexedFaceSet {
+  coord DEF COORD_50 Coordinate { point [
+  0.55099998 -0.53500003 0.012,0.31499999 -0.53500003 0.012,
+  0.55099998 -0.53500003 0,0.31499999 -0.53500003 0.012,
+  0.31499999 -0.53500003 0,0.55099998 -0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_50 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_54 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_51 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_51 IndexedFaceSet {
+  coord DEF COORD_51 Coordinate { point [
+  0.31499999 -0.84999997 0.012,0.31499999 -0.72399997 0.012,
+  0.31499999 -0.84999997 0,0.31499999 -0.72399997 0.012,
+  0.31499999 -0.72399997 0,0.31499999 -0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_51 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_55 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_52 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_52 IndexedFaceSet {
+  coord DEF COORD_52 Coordinate { point [
+  0.55099998 -0.84999997 0.012,0.31499999 -0.84999997 0.012,
+  0.55099998 -0.84999997 0,0.31499999 -0.84999997 0.012,
+  0.31499999 -0.84999997 0,0.55099998 -0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_52 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_56 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_53 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_53 IndexedFaceSet {
+  coord DEF COORD_53 Coordinate { point [
+  0.31499999 -0.72399997 0.012,0.55099998 -0.72399997 0.012,
+  0.31499999 -0.72399997 0,0.55099998 -0.72399997 0.012,
+  0.55099998 -0.72399997 0,0.31499999 -0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_53 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_57 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_54 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_54 IndexedFaceSet {
+  coord DEF COORD_54 Coordinate { point [
+  0.55099998 -0.72399997 0.012,0.55099998 -0.84999997 0.012,
+  0.55099998 -0.72399997 0,0.55099998 -0.84999997 0.012,
+  0.55099998 -0.84999997 0,0.55099998 -0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_54 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_58 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_55 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_55 IndexedFaceSet {
+  coord DEF COORD_55 Coordinate { point [
+  0.55099998 0.72399997 0.012,0.31499999 0.72399997 0.012,
+  0.55099998 0.72399997 0,0.31499999 0.72399997 0.012,
+  0.31499999 0.72399997 0,0.55099998 0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_55 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_59 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_56 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_56 IndexedFaceSet {
+  coord DEF COORD_56 Coordinate { point [
+  0.55099998 0.84999997 0.012,0.55099998 0.72399997 0.012,
+  0.55099998 0.84999997 0,0.55099998 0.72399997 0.012,
+  0.55099998 0.72399997 0,0.55099998 0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_56 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_60 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_57 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_57 IndexedFaceSet {
+  coord DEF COORD_57 Coordinate { point [
+  0.31499999 0.72399997 0.012,0.31499999 0.84999997 0.012,
+  0.31499999 0.72399997 0,0.31499999 0.84999997 0.012,
+  0.31499999 0.84999997 0,0.31499999 0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_57 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_61 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_58 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_58 IndexedFaceSet {
+  coord DEF COORD_58 Coordinate { point [
+  0.31499999 0.84999997 0.012,0.55099998 0.84999997 0.012,
+  0.31499999 0.84999997 0,0.55099998 0.84999997 0.012,
+  0.55099998 0.84999997 0,0.31499999 0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_58 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_62 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_59 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_59 IndexedFaceSet {
+  coord DEF COORD_59 Coordinate { point [
+  -0.55099998 0.72399997 0.012,-0.55099998 0.84999997 0.012,
+  -0.55099998 0.72399997 0,-0.55099998 0.84999997 0.012,
+  -0.55099998 0.84999997 0,-0.55099998 0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_59 Normal { vector [
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0] }
+}
+}
+] }
+DEF TXFM_63 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_60 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_60 IndexedFaceSet {
+  coord DEF COORD_60 Coordinate { point [
+  -0.31499999 0.72399997 0.012,-0.55099998 0.72399997 0.012,
+  -0.31499999 0.72399997 0,-0.55099998 0.72399997 0.012,
+  -0.55099998 0.72399997 0,-0.31499999 0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_60 Normal { vector [
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0] }
+}
+}
+] }
+DEF TXFM_64 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_61 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_61 IndexedFaceSet {
+  coord DEF COORD_61 Coordinate { point [
+  -0.55099998 0.84999997 0.012,-0.31499999 0.84999997 0.012,
+  -0.55099998 0.84999997 0,-0.31499999 0.84999997 0.012,
+  -0.31499999 0.84999997 0,-0.55099998 0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_61 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0] }
+}
+}
+] }
+DEF TXFM_65 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_62 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_62 IndexedFaceSet {
+  coord DEF COORD_62 Coordinate { point [
+  -0.31499999 0.84999997 0.012,-0.31499999 0.72399997 0.012,
+  -0.31499999 0.84999997 0,-0.31499999 0.72399997 0.012,
+  -0.31499999 0.72399997 0,-0.31499999 0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_62 Normal { vector [
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_66 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_63 Shape {
+ appearance USE APP_2
+ geometry DEF FACE_63 IndexedFaceSet {
+  coord DEF COORD_63 Coordinate { point [
+  -0.42599998 0.81 0.30700001,-0.42 0.81699993 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.41199998 0.82200005 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.42 0.81699993 0.30700001,
+  -0.43099997 0.80099998 0.30700001,-0.42599998 0.81 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.403 0.82599995 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.41199998 0.82200005 0.30700001,
+  -0.43300001 0.79199996 0.30700001,-0.43099997 0.80099998 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.39399998 0.82699999 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.403 0.82599995 0.30700001,
+  -0.43300001 0.78299998 0.30700001,-0.43300001 0.79199996 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.38399999 0.82599995 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.39399998 0.82699999 0.30700001,
+  -0.43099997 0.77300001 0.30700001,-0.43300001 0.78299998 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.37499999 0.82200005 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.38399999 0.82599995 0.30700001,
+  -0.42599998 0.76499999 0.30700001,-0.43099997 0.77300001 0.30700001,
+  -0.591 0.98400003 0.30700001,0.591 0.98400003 0.30700001,
+  -0.37499999 0.82200005 0.30700001,-0.36799999 0.81699993 0.30700001,
+  0.591 0.98400003 0.30700001,-0.36799999 0.81699993 0.30700001,
+  -0.36099999 0.81 0.30700001,0.591 0.98400003 0.30700001,
+  -0.36099999 0.81 0.30700001,-0.35699998 0.80099998 0.30700001,
+  0.591 0.98400003 0.30700001,-0.35699998 0.80099998 0.30700001,
+  -0.35499998 0.79199996 0.30700001,0.591 0.98400003 0.30700001,
+  -0.35499998 0.79199996 0.30700001,-0.35499998 0.78299998 0.30700001,
+  0.591 0.98400003 0.30700001,-0.35499998 0.78299998 0.30700001,
+  -0.35699998 0.77300001 0.30700001,0.591 0.98400003 0.30700001,
+  -0.35699998 0.77300001 0.30700001,-0.36099999 0.76499999 0.30700001,
+  0.591 0.98400003 0.30700001,-0.36099999 0.76499999 0.30700001,
+  -0.36799999 0.75800001 0.30700001,0.591 0.98400003 0.30700001,
+  -0.591 0.98400003 0.30700001,-0.37499999 0.82200005 0.30700001,
+  -0.591 -0.98400003 0.30700001,-0.39399998 0.74799999 0.30700001,
+  -0.403 0.74899999 0.30700001,-0.591 -0.98400003 0.30700001,
+  -0.403 0.74899999 0.30700001,-0.41199998 0.75300003 0.30700001,
+  -0.591 -0.98400003 0.30700001,-0.41199998 0.75300003 0.30700001,
+  -0.42 0.75800001 0.30700001,-0.591 -0.98400003 0.30700001,
+  -0.42 0.75800001 0.30700001,-0.42599998 0.76499999 0.30700001,
+  -0.591 -0.98400003 0.30700001,-0.37499999 0.75300003 0.30700001,
+  -0.38399999 0.74899999 0.30700001,-0.591 -0.98400003 0.30700001,
+  -0.38399999 0.74899999 0.30700001,-0.39399998 0.74799999 0.30700001,
+  -0.591 -0.98400003 0.30700001,-0.42599998 0.76499999 0.30700001,
+  -0.591 0.98400003 0.30700001,0.591 -0.98400003 0.30700001,
+  -0.36799999 0.75800001 0.30700001,-0.37499999 0.75300003 0.30700001,
+  0.591 -0.98400003 0.30700001,-0.37499999 0.75300003 0.30700001,
+  -0.591 -0.98400003 0.30700001,0.591 -0.98400003 0.30700001,
+  0.591 0.98400003 0.30700001,-0.36799999 0.75800001 0.30700001] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1,6,7,8,-1,9,10,11,-1,12,13,14,-1,15,16,17,-1,18,19,20,-1,21,22,23,-1,
+  24,25,26,-1,27,28,29,-1,30,31,32,-1,33,34,35,-1,36,37,38,-1,39,40,41,-1,42,43,44,-1,45,46,47,-1,
+  48,49,50,-1,51,52,53,-1,54,55,56,-1,57,58,59,-1,60,61,62,-1,63,64,65,-1,66,67,68,-1,69,70,71,-1,
+  72,73,74,-1,75,76,77,-1,78,79,80,-1,81,82,83,-1,84,85,86,-1,87,88,89,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_63 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+DEF TXFM_67 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_64 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_64 IndexedFaceSet {
+  coord DEF COORD_64 Coordinate { point [
+  0.55099998 -0.21999999 0,0.31499999 -0.21999999 0,
+  0.31499999 -0.093999998 0,0.55099998 -0.093999998 0,
+  0.55099998 -0.21999999 0,0.31499999 -0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_64 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_68 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_65 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_65 IndexedFaceSet {
+  coord DEF COORD_65 Coordinate { point [
+  0.55099998 0.093999998 0,0.31499999 0.093999998 0,
+  0.31499999 0.21999999 0,0.55099998 0.21999999 0,
+  0.55099998 0.093999998 0,0.31499999 0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_65 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_69 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_66 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_66 IndexedFaceSet {
+  coord DEF COORD_66 Coordinate { point [
+  -0.55099998 0.21999999 0,-0.31499999 0.21999999 0,
+  -0.31499999 0.093999998 0,-0.55099998 0.093999998 0,
+  -0.55099998 0.21999999 0,-0.31499999 0.093999998 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_66 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_70 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_67 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_67 IndexedFaceSet {
+  coord DEF COORD_67 Coordinate { point [
+  -0.55099998 -0.093999998 0,-0.31499999 -0.093999998 0,
+  -0.31499999 -0.21999999 0,-0.55099998 -0.21999999 0,
+  -0.55099998 -0.093999998 0,-0.31499999 -0.21999999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_67 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_71 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_68 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_68 IndexedFaceSet {
+  coord DEF COORD_68 Coordinate { point [
+  0.55099998 0.40899999 0,0.31499999 0.40899999 0,
+  0.31499999 0.53500003 0,0.55099998 0.53500003 0,
+  0.55099998 0.40899999 0,0.31499999 0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_68 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_72 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_69 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_69 IndexedFaceSet {
+  coord DEF COORD_69 Coordinate { point [
+  -0.55099998 0.53500003 0,-0.31499999 0.53500003 0,
+  -0.31499999 0.40899999 0,-0.55099998 0.40899999 0,
+  -0.55099998 0.53500003 0,-0.31499999 0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_69 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_73 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_70 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_70 IndexedFaceSet {
+  coord DEF COORD_70 Coordinate { point [
+  -0.55099998 -0.72399997 0,-0.31499999 -0.72399997 0,
+  -0.31499999 -0.84999997 0,-0.55099998 -0.84999997 0,
+  -0.55099998 -0.72399997 0,-0.31499999 -0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_70 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_74 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_71 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_71 IndexedFaceSet {
+  coord DEF COORD_71 Coordinate { point [
+  -0.55099998 -0.40899999 0,-0.31499999 -0.40899999 0,
+  -0.31499999 -0.53500003 0,-0.55099998 -0.53500003 0,
+  -0.55099998 -0.40899999 0,-0.31499999 -0.53500003 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_71 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_75 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_72 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_72 IndexedFaceSet {
+  coord DEF COORD_72 Coordinate { point [
+  -0.062999998 -0.94500001 0,-0.062999998 -0.70899997 0,
+  0.062999998 -0.70899997 0,0.062999998 -0.94500001 0,
+  -0.062999998 -0.94500001 0,0.062999998 -0.70899997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_72 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_76 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_73 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_73 IndexedFaceSet {
+  coord DEF COORD_73 Coordinate { point [
+  0.55099998 -0.53500003 0,0.31499999 -0.53500003 0,
+  0.31499999 -0.40899999 0,0.55099998 -0.40899999 0,
+  0.55099998 -0.53500003 0,0.31499999 -0.40899999 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_73 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_77 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_74 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_74 IndexedFaceSet {
+  coord DEF COORD_74 Coordinate { point [
+  0.55099998 -0.84999997 0,0.31499999 -0.84999997 0,
+  0.31499999 -0.72399997 0,0.55099998 -0.72399997 0,
+  0.55099998 -0.84999997 0,0.31499999 -0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_74 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_78 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_75 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_75 IndexedFaceSet {
+  coord DEF COORD_75 Coordinate { point [
+  0.55099998 0.72399997 0,0.31499999 0.72399997 0,
+  0.31499999 0.84999997 0,0.55099998 0.84999997 0,
+  0.55099998 0.72399997 0,0.31499999 0.84999997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_75 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_79 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_76 Shape {
+ appearance USE APP_1
+ geometry DEF FACE_76 IndexedFaceSet {
+  coord DEF COORD_76 Coordinate { point [
+  -0.55099998 0.84999997 0,-0.31499999 0.84999997 0,
+  -0.31499999 0.72399997 0,-0.55099998 0.72399997 0,
+  -0.55099998 0.84999997 0,-0.31499999 0.72399997 0] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_76 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_80 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_77 Shape {
+ appearance DEF APP_3 Appearance {
+  material Material {
+   ambientIntensity 0.08200001
+   diffuseColor 0.69099998 0.66399997 0.59799999
+   emissiveColor 0 0 0
+   shininess 0.0099999998
+   specularColor 0 0 0
+   transparency 0
+} }
+ geometry DEF FACE_77 IndexedFaceSet {
+  coord DEF COORD_77 Coordinate { point [
+  -0.40599999 0.74999999 0.29899999,-0.41199998 0.75300003 0.30700001,
+  -0.403 0.74899999 0.30700001,-0.40599999 0.74999999 0.29899999,
+  -0.40999998 0.75199998 0.29899999,-0.41199998 0.75300003 0.30700001,
+  -0.38499999 0.82599995 0.29899999,-0.381 0.825 0.29899999,
+  -0.38399999 0.82599995 0.30700001,-0.389 0.82699999 0.29899999,
+  -0.38399999 0.82599995 0.30700001,-0.39399998 0.82699999 0.30700001,
+  -0.40200001 0.74899999 0.29899999,-0.40599999 0.74999999 0.29899999,
+  -0.403 0.74899999 0.30700001,-0.389 0.82699999 0.29899999,
+  -0.38499999 0.82599995 0.29899999,-0.38399999 0.82599995 0.30700001,
+  -0.39800002 0.74799999 0.29899999,-0.403 0.74899999 0.30700001,
+  -0.39399998 0.74799999 0.30700001,-0.39800002 0.74799999 0.29899999,
+  -0.40200001 0.74899999 0.29899999,-0.403 0.74899999 0.30700001,
+  -0.39399998 0.74799999 0.29899999,-0.39800002 0.74799999 0.29899999,
+  -0.39399998 0.74799999 0.30700001,-0.39399998 0.82699999 0.29899999,
+  -0.389 0.82699999 0.29899999,-0.39399998 0.82699999 0.30700001,
+  -0.389 0.74799999 0.29899999,-0.39399998 0.74799999 0.30700001,
+  -0.38399999 0.74899999 0.30700001,-0.389 0.74799999 0.29899999,
+  -0.39399998 0.74799999 0.29899999,-0.39399998 0.74799999 0.30700001,
+  -0.39800002 0.82699999 0.29899999,-0.39399998 0.82699999 0.30700001,
+  -0.403 0.82599995 0.30700001,-0.39800002 0.82699999 0.29899999,
+  -0.39399998 0.82699999 0.29899999,-0.39399998 0.82699999 0.30700001,
+  -0.38499999 0.74899999 0.29899999,-0.389 0.74799999 0.29899999,
+  -0.38399999 0.74899999 0.30700001,-0.40200001 0.82599995 0.29899999,
+  -0.39800002 0.82699999 0.29899999,-0.403 0.82599995 0.30700001,
+  -0.381 0.74999999 0.29899999,-0.38399999 0.74899999 0.30700001,
+  -0.37499999 0.75300003 0.30700001,-0.381 0.74999999 0.29899999,
+  -0.38499999 0.74899999 0.29899999,-0.38399999 0.74899999 0.30700001,
+  -0.40599999 0.825 0.29899999,-0.403 0.82599995 0.30700001,
+  -0.41199998 0.82200005 0.30700001,-0.40599999 0.825 0.29899999,
+  -0.40200001 0.82599995 0.29899999,-0.403 0.82599995 0.30700001,
+  -0.37699999 0.75199998 0.29899999,-0.381 0.74999999 0.29899999,
+  -0.37499999 0.75300003 0.30700001,-0.40999998 0.823 0.29899999,
+  -0.40599999 0.825 0.29899999,-0.41199998 0.82200005 0.30700001,
+  -0.373 0.75399998 0.29899999,-0.37699999 0.75199998 0.29899999,
+  -0.37499999 0.75300003 0.30700001,-0.41400002 0.82100001 0.29899999,
+  -0.40999998 0.823 0.29899999,-0.41199998 0.82200005 0.30700001,
+  -0.37000001 0.75599997 0.29899999,-0.373 0.75399998 0.29899999,
+  -0.37499999 0.75300003 0.30700001,-0.41800001 0.81900002 0.29899999,
+  -0.41199998 0.82200005 0.30700001,-0.42 0.81699993 0.30700001,
+  -0.37000001 0.75599997 0.29899999,-0.37499999 0.75300003 0.30700001,
+  -0.36799999 0.75800001 0.30700001,-0.41800001 0.81900002 0.29899999,
+  -0.41400002 0.82100001 0.29899999,-0.41199998 0.82200005 0.30700001,
+  -0.36700002 0.75900001 0.29899999,-0.37000001 0.75599997 0.29899999,
+  -0.36799999 0.75800001 0.30700001,-0.421 0.81599998 0.29899999,
+  -0.41800001 0.81900002 0.29899999,-0.42 0.81699993 0.30700001,
+  -0.36399998 0.762 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.36799999 0.75800001 0.30700001,-0.36399998 0.762 0.29899999,
+  -0.36799999 0.75800001 0.30700001,-0.36099999 0.76499999 0.30700001,
+  -0.42399999 0.81300003 0.29899999,-0.42 0.81699993 0.30700001,
+  -0.42599998 0.81 0.30700001,-0.42399999 0.81300003 0.29899999,
+  -0.421 0.81599998 0.29899999,-0.42 0.81699993 0.30700001,
+  -0.36099999 0.76499999 0.29899999,-0.36399998 0.762 0.29899999,
+  -0.36099999 0.76499999 0.30700001,-0.359 0.76899998 0.29899999,
+  -0.36099999 0.76499999 0.29899999,-0.36099999 0.76499999 0.30700001,
+  -0.42599998 0.80900005 0.29899999,-0.42399999 0.81300003 0.29899999,
+  -0.42599998 0.81 0.30700001,-0.42799998 0.80600001 0.29899999,
+  -0.42599998 0.80900005 0.29899999,-0.42599998 0.81 0.30700001,
+  -0.359 0.76899998 0.29899999,-0.36099999 0.76499999 0.30700001,
+  -0.35699998 0.77300001 0.30700001,-0.42799998 0.80600001 0.29899999,
+  -0.42599998 0.81 0.30700001,-0.43099997 0.80099998 0.30700001,
+  -0.43000002 0.80200002 0.29899999,-0.42799998 0.80600001 0.29899999,
+  -0.43099997 0.80099998 0.30700001,-0.35699998 0.77300001 0.29899999,
+  -0.359 0.76899998 0.29899999,-0.35699998 0.77300001 0.30700001,
+  -0.356 0.777 0.29899999,-0.35699998 0.77300001 0.30700001,
+  -0.35499998 0.78299998 0.30700001,-0.356 0.777 0.29899999,
+  -0.35699998 0.77300001 0.29899999,-0.35699998 0.77300001 0.30700001,
+  -0.43200001 0.79799994 0.29899999,-0.43099997 0.80099998 0.30700001,
+  -0.43300001 0.79199996 0.30700001,-0.43200001 0.79799994 0.29899999,
+  -0.43000002 0.80200002 0.29899999,-0.43099997 0.80099998 0.30700001,
+  -0.35499998 0.78099999 0.29899999,-0.356 0.777 0.29899999,
+  -0.35499998 0.78299998 0.30700001,-0.43300001 0.79400004 0.29899999,
+  -0.43200001 0.79799994 0.29899999,-0.43300001 0.79199996 0.30700001,
+  -0.35399999 0.78500002 0.29899999,-0.35499998 0.78099999 0.29899999,
+  -0.35499998 0.78299998 0.30700001,-0.43300001 0.79000006 0.29899999,
+  -0.43300001 0.79400004 0.29899999,-0.43300001 0.79199996 0.30700001,
+  -0.35399999 0.79000006 0.29899999,-0.35499998 0.78299998 0.30700001,
+  -0.35499998 0.79199996 0.30700001,-0.35399999 0.79000006 0.29899999,
+  -0.35399999 0.78500002 0.29899999,-0.35499998 0.78299998 0.30700001,
+  -0.43300001 0.78500002 0.29899999,-0.43300001 0.79000006 0.29899999,
+  -0.43300001 0.79199996 0.30700001,-0.43300001 0.78500002 0.29899999,
+  -0.43300001 0.79199996 0.30700001,-0.43300001 0.78299998 0.30700001,
+  -0.35499998 0.79400004 0.29899999,-0.35399999 0.79000006 0.29899999,
+  -0.35499998 0.79199996 0.30700001,-0.356 0.79799994 0.29899999,
+  -0.35499998 0.79199996 0.30700001,-0.35699998 0.80099998 0.30700001,
+  -0.43300001 0.78099999 0.29899999,-0.43300001 0.78500002 0.29899999,
+  -0.43300001 0.78299998 0.30700001,-0.356 0.79799994 0.29899999,
+  -0.35499998 0.79400004 0.29899999,-0.35499998 0.79199996 0.30700001,
+  -0.43200001 0.777 0.29899999,-0.43300001 0.78299998 0.30700001,
+  -0.43099997 0.77300001 0.30700001,-0.43200001 0.777 0.29899999,
+  -0.43300001 0.78099999 0.29899999,-0.43300001 0.78299998 0.30700001,
+  -0.35699998 0.80200002 0.29899999,-0.356 0.79799994 0.29899999,
+  -0.35699998 0.80099998 0.30700001,-0.359 0.80600001 0.29899999,
+  -0.35699998 0.80099998 0.30700001,-0.36099999 0.81 0.30700001,
+  -0.43000002 0.77300001 0.29899999,-0.43200001 0.777 0.29899999,
+  -0.43099997 0.77300001 0.30700001,-0.359 0.80600001 0.29899999,
+  -0.35699998 0.80200002 0.29899999,-0.35699998 0.80099998 0.30700001,
+  -0.42799998 0.76899998 0.29899999,-0.43099997 0.77300001 0.30700001,
+  -0.42599998 0.76499999 0.30700001,-0.42799998 0.76899998 0.29899999,
+  -0.43000002 0.77300001 0.29899999,-0.43099997 0.77300001 0.30700001,
+  -0.36099999 0.80900005 0.29899999,-0.359 0.80600001 0.29899999,
+  -0.36099999 0.81 0.30700001,-0.36399998 0.81300003 0.29899999,
+  -0.36099999 0.81 0.30700001,-0.36799999 0.81699993 0.30700001,
+  -0.42599998 0.76499999 0.29899999,-0.42799998 0.76899998 0.29899999,
+  -0.42599998 0.76499999 0.30700001,-0.36399998 0.81300003 0.29899999,
+  -0.36099999 0.80900005 0.29899999,-0.36099999 0.81 0.30700001,
+  -0.36700002 0.81599998 0.29899999,-0.36399998 0.81300003 0.29899999,
+  -0.36799999 0.81699993 0.30700001,-0.42399999 0.762 0.29899999,
+  -0.42599998 0.76499999 0.30700001,-0.42 0.75800001 0.30700001,
+  -0.42399999 0.762 0.29899999,-0.42599998 0.76499999 0.29899999,
+  -0.42599998 0.76499999 0.30700001,-0.421 0.75900001 0.29899999,
+  -0.42399999 0.762 0.29899999,-0.42 0.75800001 0.30700001,
+  -0.37000001 0.81900002 0.29899999,-0.36799999 0.81699993 0.30700001,
+  -0.37499999 0.82200005 0.30700001,-0.37000001 0.81900002 0.29899999,
+  -0.36700002 0.81599998 0.29899999,-0.36799999 0.81699993 0.30700001,
+  -0.373 0.82100001 0.29899999,-0.37000001 0.81900002 0.29899999,
+  -0.37499999 0.82200005 0.30700001,-0.41800001 0.75599997 0.29899999,
+  -0.42 0.75800001 0.30700001,-0.41199998 0.75300003 0.30700001,
+  -0.41800001 0.75599997 0.29899999,-0.421 0.75900001 0.29899999,
+  -0.42 0.75800001 0.30700001,-0.41400002 0.75399998 0.29899999,
+  -0.41800001 0.75599997 0.29899999,-0.41199998 0.75300003 0.30700001,
+  -0.37699999 0.823 0.29899999,-0.373 0.82100001 0.29899999,
+  -0.37499999 0.82200005 0.30700001,-0.381 0.825 0.29899999,
+  -0.37499999 0.82200005 0.30700001,-0.38399999 0.82599995 0.30700001,
+  -0.381 0.825 0.29899999,-0.37699999 0.823 0.29899999,
+  -0.37499999 0.82200005 0.30700001,-0.40999998 0.75199998 0.29899999,
+  -0.41400002 0.75399998 0.29899999,-0.41199998 0.75300003 0.30700001] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1,6,7,8,-1,9,10,11,-1,12,13,14,-1,15,16,17,-1,18,19,20,-1,21,22,23,-1,
+  24,25,26,-1,27,28,29,-1,30,31,32,-1,33,34,35,-1,36,37,38,-1,39,40,41,-1,42,43,44,-1,45,46,47,-1,
+  48,49,50,-1,51,52,53,-1,54,55,56,-1,57,58,59,-1,60,61,62,-1,63,64,65,-1,66,67,68,-1,69,70,71,-1,
+  72,73,74,-1,75,76,77,-1,78,79,80,-1,81,82,83,-1,84,85,86,-1,87,88,89,-1,90,91,92,-1,93,94,95,-1,
+  96,97,98,-1,99,100,101,-1,102,103,104,-1,105,106,107,-1,108,109,110,-1,111,112,113,-1,114,115,116,-1,117,118,119,-1,
+  120,121,122,-1,123,124,125,-1,126,127,128,-1,129,130,131,-1,132,133,134,-1,135,136,137,-1,138,139,140,-1,141,142,143,-1,
+  144,145,146,-1,147,148,149,-1,150,151,152,-1,153,154,155,-1,156,157,158,-1,159,160,161,-1,162,163,164,-1,165,166,167,-1,
+  168,169,170,-1,171,172,173,-1,174,175,176,-1,177,178,179,-1,180,181,182,-1,183,184,185,-1,186,187,188,-1,189,190,191,-1,
+  192,193,194,-1,195,196,197,-1,198,199,200,-1,201,202,203,-1,204,205,206,-1,207,208,209,-1,210,211,212,-1,213,214,215,-1,
+  216,217,218,-1,219,220,221,-1,222,223,224,-1,225,226,227,-1,228,229,230,-1,231,232,233,-1,234,235,236,-1,237,238,239,-1,
+  240,241,242,-1,243,244,245,-1,246,247,248,-1,249,250,251,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_77 Normal { vector [
+  0.36063841 0.93267899 -0.0070602004,0.46626338 0.88374233 -0.039974484,
+  0.27957237 0.95968319 -0.029111371,0.36063841 0.93267899 -0.0070602004,
+  0.44721155 0.89442822 -5.8850725e-06,0.46626338 0.88374233 -0.039974484,
+  -0.24242553 -0.96969665 0.030303018,-0.3687284 -0.92953707 -0.00045778329,
+  -0.28548405 -0.95825799 -0.015507168,-0.14817532 -0.98895974 0.0016453478,
+  -0.28548405 -0.95825799 -0.015507168,-0.015147024 -0.99944357 -0.029717212,
+  0.24242424 0.96969697 0.030302852,0.36063838 0.932679 -0.0070601995,
+  0.27957237 0.95968319 -0.029111371,-0.14817532 -0.98895974 0.0016453478,
+  -0.24242553 -0.96969665 0.030303018,-0.28548405 -0.95825799 -0.015507168,
+  0.11323865 0.99342728 -0.016710467,0.27957237 0.95968319 -0.029111371,
+  0.016183331 0.99874972 -0.047297898,0.11323865 0.99342728 -0.016710467,
+  0.24242424 0.96969697 0.030302852,0.27957234 0.95968319 -0.029111371,
+  0 1 0,0.11323863 0.99342729 -0.016710465,
+  0.016183331 0.99874972 -0.047297898,0 -1 0,
+  -0.14817532 -0.98895974 0.0016453478,-0.015147024 -0.99944357 -0.029717212,
+  -0.11132484 0.99334631 -0.029493976,0.016183331 0.99874972 -0.047297898,
+  -0.23243332 0.97172441 -0.041550127,-0.11132484 0.99334631 -0.029493976,
+  0 1 0,0.016183331 0.99874972 -0.047297898,
+  0.057654296 -0.99832977 -0.0036948433,-0.015147024 -0.99944357 -0.029717212,
+  0.27829001 -0.96035643 -0.016437762,0.057654296 -0.99832977 -0.0036948433,
+  0 -1 0,-0.015147024 -0.99944357 -0.029717216,
+  -0.24242323 0.96969723 0.030302724,-0.11132486 0.9933463 -0.029493979,
+  -0.23243332 0.97172441 -0.041550127,0.24242101 -0.9696978 0.030302451,
+  0.057654296 -0.99832977 -0.0036948433,0.27829001 -0.96035643 -0.016437762,
+  -0.38221583 0.92386377 -0.019667169,-0.23243335 0.97172441 -0.04155013,
+  -0.4534365 0.89073576 -0.031386886,-0.38221583 0.92386377 -0.019667169,
+  -0.24242323 0.96969723 0.030302724,-0.23243337 0.9717244 -0.04155013,
+  0.31901831 -0.94773318 0.0053985082,0.27829001 -0.96035643 -0.016437762,
+  0.45768915 -0.88839498 -0.035707307,0.31901831 -0.94773318 0.0053985082,
+  0.24242101 -0.9696978 0.030302451,0.27829001 -0.96035643 -0.016437758,
+  -0.44721231 0.89442783 -5.6437389e-06,-0.38221583 0.92386377 -0.019667169,
+  -0.4534365 0.89073576 -0.031386886,0.44721195 -0.89442801 4.7309882e-06,
+  0.31901826 -0.94773319 0.005398508,0.45768915 -0.88839498 -0.035707307,
+  -0.5394903 0.84146806 -0.02969382,-0.44721231 0.89442783 -5.6437389e-06,
+  -0.4534365 0.89073576 -0.031386886,0.44721281 -0.89442758 2.8608319e-06,
+  0.44721195 -0.89442801 4.7309882e-06,0.45768915 -0.88839498 -0.035707307,
+  -0.64106144 0.76732005 -0.016129791,-0.5394903 0.84146806 -0.02969382,
+  -0.45343648 0.89073578 -0.031386885,0.58308139 -0.81216099 -0.020263799,
+  0.45768915 -0.88839498 -0.035707307,0.69505215 -0.71714657 -0.051022593,
+  -0.64106144 0.76732005 -0.016129791,-0.45343648 0.89073578 -0.031386888,
+  -0.70451501 0.70968792 -0.0012913689,0.58308139 -0.81216099 -0.020263799,
+  0.44721281 -0.89442758 2.8608319e-06,0.45768915 -0.88839498 -0.035707307,
+  -0.70710511 0.70710845 2.4965862e-06,-0.64106144 0.76732005 -0.016129791,
+  -0.70451501 0.70968792 -0.0012913689,0.70710937 -0.70710419 -4.7859816e-06,
+  0.58308139 -0.81216099 -0.020263799,0.69505215 -0.71714657 -0.051022593,
+  -0.70710371 0.70710985 1.6770283e-06,-0.70710511 0.70710845 2.4965862e-06,
+  -0.70451501 0.70968792 -0.0012913689,-0.70710371 0.70710985 1.6770283e-06,
+  -0.70451501 0.70968792 -0.0012913689,-0.85355583 0.52100138 -1.1090655e-07,
+  0.83252127 -0.55396522 0.0055563586,0.69505215 -0.71714657 -0.051022593,
+  0.84253036 -0.53860363 0.0069799083,0.83252127 -0.55396522 0.0055563586,
+  0.70710937 -0.70710419 -4.7859816e-06,0.69505215 -0.71714657 -0.051022593,
+  -0.84917119 0.52811769 0,-0.70710374 0.70710982 1.6770283e-06,
+  -0.85355583 0.52100138 -1.1090655e-07,-0.89442719 0.4472136 0,
+  -0.84917119 0.52811769 0,-0.85355583 0.52100138 -1.1090655e-07,
+  0.87214632 -0.4854675 0.060680242,0.83252127 -0.55396522 0.0055563572,
+  0.84253036 -0.53860363 0.0069799083,0.87435067 -0.48348412 0.04188101,
+  0.87214632 -0.4854675 0.060680242,0.84253036 -0.53860363 0.0069799073,
+  -0.89442719 0.4472136 0,-0.85355583 0.52100138 -1.1090654e-07,
+  -0.94858272 0.3164298 -0.0079371902,0.87435067 -0.48348412 0.04188101,
+  0.84253036 -0.53860363 0.0069799083,0.93596447 -0.35209447 -5.650059e-05,
+  0.89303208 -0.4465192 0.055805933,0.87435067 -0.48348412 0.04188101,
+  0.93596447 -0.35209447 -5.650059e-05,-0.94583914 0.32463567 0,
+  -0.89442719 0.4472136 0,-0.94858272 0.3164298 -0.0079371902,
+  -0.97278845 0.23052086 -0.023297227,-0.94858272 0.3164298 -0.0079371902,
+  -0.99025082 0.10862482 -0.087200666,-0.97278845 0.23052086 -0.023297227,
+  -0.94583914 0.32463567 0,-0.94858272 0.3164298 -0.0079371902,
+  0.96000206 -0.27883938 -0.025389962,0.93596446 -0.3520945 -5.6499993e-05,
+  0.99445674 -0.1029946 -0.021163804,0.96000206 -0.27883938 -0.025389962,
+  0.89303208 -0.4465192 0.055805933,0.93596447 -0.35209447 -5.6499386e-05,
+  -0.96836369 0.24209246 -0.06052276,-0.97278845 0.23052086 -0.023297227,
+  -0.99025082 0.10862482 -0.087200666,0.98923281 -0.14198044 -0.035496571,
+  0.96000206 -0.27883938 -0.025389962,0.99445674 -0.1029946 -0.021163804,
+  -0.99127 0.081702165 -0.10348213,-0.96836369 0.24209246 -0.06052276,
+  -0.99025082 0.10862482 -0.087200656,1 0 0,
+  0.98923281 -0.14198044 -0.035496571,0.99445674 -0.1029946 -0.021163804,
+  -0.98968768 -0.104966 -0.097470127,-0.99025082 0.10862481 -0.087200664,
+  -0.98599024 -0.14675065 -0.079293694,-0.98968768 -0.104966 -0.097470127,
+  -0.99127 0.081702165 -0.10348213,-0.99025083 0.10862481 -0.087200656,
+  1 0 0,1 0 0,
+  0.99445674 -0.1029946 -0.021163804,1 0 0,
+  0.99445674 -0.1029946 -0.021163804,0.99565643 0.091967136 -0.014502209,
+  -0.96836217 -0.24209753 -0.060526864,-0.98968768 -0.104966 -0.097470127,
+  -0.98599024 -0.14675065 -0.079293694,-0.9708681 -0.23557552 -0.043809901,
+  -0.98599024 -0.14675065 -0.079293694,-0.94599386 -0.32195504 -0.037954735,
+  0.99022009 0.13534855 -0.033836943,1 0 0,
+  0.99565643 0.091967136 -0.014502209,-0.9708681 -0.23557552 -0.043809901,
+  -0.96836217 -0.24209753 -0.060526864,-0.98599024 -0.14675065 -0.079293709,
+  0.95429209 0.29842635 0.016380542,0.99565643 0.091967136 -0.014502209,
+  0.92065334 0.38827903 0.040457633,0.95429209 0.29842635 0.016380542,
+  0.99022009 0.13534855 -0.033836943,0.99565643 0.09196713 -0.014502207,
+  -0.9305584 -0.36331586 -0.045416349,-0.9708681 -0.23557552 -0.043809901,
+  -0.94599386 -0.32195504 -0.037954735,-0.88165398 -0.47185595 -0.0061823569,
+  -0.94599386 -0.32195504 -0.037954735,-0.82307248 -0.56754147 0.021174691,
+  0.88888851 0.44444667 0.1111052,0.95429209 0.29842635 0.016380542,
+  0.92065334 0.38827903 0.040457633,-0.88165398 -0.47185595 -0.0061823569,
+  -0.9305584 -0.36331586 -0.045416349,-0.94599385 -0.32195507 -0.037954731,
+  0.87548244 0.48062339 0.050315581,0.92065334 0.38827903 0.040457633,
+  0.82099651 0.57092731 -0.0025941359,0.87548244 0.48062339 0.050315581,
+  0.88888851 0.44444667 0.1111052,0.92065334 0.38827904 0.040457635,
+  -0.81361529 -0.57691441 0.072110501,-0.88165397 -0.47185597 -0.0061823568,
+  -0.82307248 -0.56754147 0.021174691,-0.74950643 -0.6611677 0.033126836,
+  -0.82307248 -0.56754147 0.021174691,-0.66706146 -0.74474938 -0.019426273,
+  0.86762474 0.49721958 0,0.87548242 0.48062342 0.050315584,
+  0.82099651 0.57092731 -0.0025941359,-0.74950643 -0.6611677 0.033126836,
+  -0.81361529 -0.57691441 0.072110501,-0.82307253 -0.5675414 0.021174689,
+  -0.70710392 -0.70710964 -1.3436408e-06,-0.74950643 -0.6611677 0.033126836,
+  -0.66706146 -0.74474938 -0.019426273,0.76749524 0.64069155 -0.021572792,
+  0.82099651 0.57092731 -0.0025941359,0.65591632 0.75305949 -0.051722157,
+  0.76749524 0.64069155 -0.021572792,0.86762474 0.49721958 0,
+  0.82099654 0.57092727 -0.002594136,0.70710896 0.70710461 -5.4499826e-07,
+  0.76749524 0.64069155 -0.021572792,0.65591632 0.75305949 -0.051722157,
+  -0.63853753 -0.76924229 -0.023154257,-0.66706149 -0.74474935 -0.019426276,
+  -0.48570183 -0.8736813 -0.02783381,-0.63853753 -0.76924229 -0.023154257,
+  -0.70710392 -0.70710964 -1.3436408e-06,-0.66706146 -0.74474938 -0.019426273,
+  -0.5075182 -0.86142718 -0.019195984,-0.63853753 -0.76924229 -0.023154257,
+  -0.48570183 -0.8736813 -0.02783381,0.57271786 0.81912174 -0.03215309,
+  0.65591632 0.75305949 -0.051722157,0.46626341 0.88374231 -0.039974486,
+  0.57271786 0.81912174 -0.03215309,0.70710896 0.70710461 -5.4499826e-07,
+  0.65591632 0.75305949 -0.051722157,0.44721212 0.89442793 -7.4044004e-06,
+  0.57271786 0.81912174 -0.03215309,0.4662634 0.88374231 -0.039974488,
+  -0.44721226 -0.89442786 4.8189223e-06,-0.5075182 -0.86142718 -0.019195984,
+  -0.48570185 -0.87368129 -0.027833809,-0.3687284 -0.92953707 -0.00045778329,
+  -0.48570185 -0.87368129 -0.027833806,-0.28548405 -0.95825799 -0.015507168,
+  -0.3687284 -0.92953707 -0.00045778312,-0.44721226 -0.89442786 4.8189223e-06,
+  -0.48570178 -0.87368133 -0.027833809,0.44721155 0.89442822 -5.8850725e-06,
+  0.44721212 0.89442793 -7.4044004e-06,0.4662634 0.88374231 -0.039974488] }
+}
+}
+] }
+DEF TXFM_81 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_78 Shape {
+ appearance USE APP_3
+ geometry DEF FACE_78 IndexedFaceSet {
+  coord DEF COORD_78 Coordinate { point [
+  -0.36700002 0.75900001 0.29899999,-0.39399998 0.74799999 0.29899999,
+  -0.389 0.74799999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.389 0.74799999 0.29899999,-0.38499999 0.74899999 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.38499999 0.74899999 0.29899999,
+  -0.381 0.74999999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.381 0.74999999 0.29899999,-0.37699999 0.75199998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.37699999 0.75199998 0.29899999,
+  -0.373 0.75399998 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.373 0.75399998 0.29899999,-0.37000001 0.75599997 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.36399998 0.762 0.29899999,
+  -0.36099999 0.76499999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.36099999 0.76499999 0.29899999,-0.359 0.76899998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.359 0.76899998 0.29899999,
+  -0.35699998 0.77300001 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.35699998 0.77300001 0.29899999,-0.356 0.777 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.356 0.777 0.29899999,
+  -0.35499998 0.78099999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.35499998 0.78099999 0.29899999,-0.35399999 0.78500002 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.35399999 0.78500002 0.29899999,
+  -0.35399999 0.79000006 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.35399999 0.79000006 0.29899999,-0.35499998 0.79400004 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.35499998 0.79400004 0.29899999,
+  -0.356 0.79799994 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.356 0.79799994 0.29899999,-0.35699998 0.80200002 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.35699998 0.80200002 0.29899999,
+  -0.359 0.80600001 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.359 0.80600001 0.29899999,-0.36099999 0.80900005 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.36099999 0.80900005 0.29899999,
+  -0.36399998 0.81300003 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.36399998 0.81300003 0.29899999,-0.36700002 0.81599998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.36700002 0.81599998 0.29899999,
+  -0.37000001 0.81900002 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.37000001 0.81900002 0.29899999,-0.373 0.82100001 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.373 0.82100001 0.29899999,
+  -0.37699999 0.823 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.37699999 0.823 0.29899999,-0.381 0.825 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.381 0.825 0.29899999,
+  -0.38499999 0.82599995 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.38499999 0.82599995 0.29899999,-0.389 0.82699999 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.389 0.82699999 0.29899999,
+  -0.39399998 0.82699999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.39399998 0.82699999 0.29899999,-0.39800002 0.82699999 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.39800002 0.82699999 0.29899999,
+  -0.40200001 0.82599995 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.40200001 0.82599995 0.29899999,-0.40599999 0.825 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.40599999 0.825 0.29899999,
+  -0.40999998 0.823 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.40999998 0.823 0.29899999,-0.41400002 0.82100001 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.41400002 0.82100001 0.29899999,
+  -0.41800001 0.81900002 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.41800001 0.81900002 0.29899999,-0.421 0.81599998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.421 0.81599998 0.29899999,
+  -0.42399999 0.81300003 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.42399999 0.81300003 0.29899999,-0.42599998 0.80900005 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.42599998 0.80900005 0.29899999,
+  -0.42799998 0.80600001 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.42799998 0.80600001 0.29899999,-0.43000002 0.80200002 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.43000002 0.80200002 0.29899999,
+  -0.43200001 0.79799994 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.43200001 0.79799994 0.29899999,-0.43300001 0.79400004 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.43300001 0.79400004 0.29899999,
+  -0.43300001 0.79000006 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.43300001 0.79000006 0.29899999,-0.43300001 0.78500002 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.43300001 0.78500002 0.29899999,
+  -0.43300001 0.78099999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.43300001 0.78099999 0.29899999,-0.43200001 0.777 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.43200001 0.777 0.29899999,
+  -0.43000002 0.77300001 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.43000002 0.77300001 0.29899999,-0.42799998 0.76899998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.42799998 0.76899998 0.29899999,
+  -0.42599998 0.76499999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.42599998 0.76499999 0.29899999,-0.42399999 0.762 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.42399999 0.762 0.29899999,
+  -0.421 0.75900001 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.421 0.75900001 0.29899999,-0.41800001 0.75599997 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.41800001 0.75599997 0.29899999,
+  -0.41400002 0.75399998 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.41400002 0.75399998 0.29899999,-0.40999998 0.75199998 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.40999998 0.75199998 0.29899999,
+  -0.40599999 0.74999999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.40599999 0.74999999 0.29899999,-0.40200001 0.74899999 0.29899999,
+  -0.36700002 0.75900001 0.29899999,-0.40200001 0.74899999 0.29899999,
+  -0.39800002 0.74799999 0.29899999,-0.36700002 0.75900001 0.29899999,
+  -0.39800002 0.74799999 0.29899999,-0.39399998 0.74799999 0.29899999] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1,6,7,8,-1,9,10,11,-1,12,13,14,-1,15,16,17,-1,18,19,20,-1,21,22,23,-1,
+  24,25,26,-1,27,28,29,-1,30,31,32,-1,33,34,35,-1,36,37,38,-1,39,40,41,-1,42,43,44,-1,45,46,47,-1,
+  48,49,50,-1,51,52,53,-1,54,55,56,-1,57,58,59,-1,60,61,62,-1,63,64,65,-1,66,67,68,-1,69,70,71,-1,
+  72,73,74,-1,75,76,77,-1,78,79,80,-1,81,82,83,-1,84,85,86,-1,87,88,89,-1,90,91,92,-1,93,94,95,-1,
+  96,97,98,-1,99,100,101,-1,102,103,104,-1,105,106,107,-1,108,109,110,-1,111,112,113,-1,114,115,116,-1,117,118,119,-1,
+  120,121,122,-1,123,124,125,-1,126,127,128,-1,129,130,131,-1,132,133,134,-1,135,136,137,-1,138,139,140,-1,141,142,143,-1,
+  144,145,146,-1,147,148,149,-1,150,151,152,-1,153,154,155,-1,156,157,158,-1,159,160,161,-1,162,163,164,-1,165,166,167,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_78 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+] }
+] }
+DEF TXFM_82 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_79 Shape {
+ appearance DEF APP_4 Appearance {
+  material Material {
+   ambientIntensity 1
+   diffuseColor 0.43000001 0.44999999 0.30000001
+   emissiveColor 0 0 0
+   shininess 0.0099999998
+   specularColor 0.48699999 0.505 0.37
+   transparency 0.1
+} }
+ geometry DEF FACE_79 IndexedFaceSet {
+  coord DEF COORD_79 Coordinate { point [
+  58.935602 -36.693898 0.31003937,49.332115 -36.693898 0.31003937,
+  49.332115 -42.073819 0.31003937,58.935602 -42.073819 0.31003937,
+  58.935602 -36.693898 -0.31003937,49.332115 -36.693898 -0.31003937,
+  49.332115 -42.073819 -0.31003937,58.935602 -42.073819 -0.31003937] }
+ coordIndex [
+  0,1,2,-1,0,2,3,-1,5,4,6,-1,6,4,7,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_79 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+DEF SHAPE_80 Shape {
+ appearance USE APP_4
+ geometry DEF FACE_80 IndexedFaceSet {
+  coord DEF COORD_80 Coordinate { point [
+  49.332115 -36.693898 0.31003937,58.935602 -36.693898 0.31003937,
+  49.332115 -36.693898 -0.31003937,49.332115 -36.693898 -0.31003937,
+  58.935602 -36.693898 0.31003937,58.935602 -36.693898 -0.31003937,
+  49.332115 -42.073819 0.31003937,49.332115 -36.693898 0.31003937,
+  49.332115 -42.073819 -0.31003937,49.332115 -42.073819 -0.31003937,
+  49.332115 -36.693898 0.31003937,49.332115 -36.693898 -0.31003937,
+  58.935602 -42.073819 0.31003937,49.332115 -42.073819 0.31003937,
+  58.935602 -42.073819 -0.31003937,58.935602 -42.073819 -0.31003937,
+  49.332115 -42.073819 0.31003937,49.332115 -42.073819 -0.31003937,
+  58.935602 -36.693898 0.31003937,58.935602 -42.073819 0.31003937,
+  58.935602 -36.693898 -0.31003937,58.935602 -36.693898 -0.31003937,
+  58.935602 -42.073819 0.31003937,58.935602 -42.073819 -0.31003937] }
+ coordIndex [
+  0,1,2,-1,3,4,5,-1,6,7,8,-1,9,10,11,-1,12,13,14,-1,15,16,17,-1,18,19,20,-1,21,22,23,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_80 Normal { vector [
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  0 1 0,0 1 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  -1 0 0,-1 0 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  0 -1 0,0 -1 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0,
+  1 0 0,1 0 0] }
+}
+}
+] }
+DEF TXFM_83 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_81 Shape {
+ appearance DEF APP_5 Appearance {
+  material Material {
+   ambientIntensity 1
+   diffuseColor 0.75 0.61000001 0.23
+   emissiveColor 0 0 0
+   shininess 0.89999998
+   specularColor 0.89999998 0.84399998 0.69199997
+   transparency 0
+} }
+ geometry DEF FACE_81 IndexedFaceSet {
+  coord DEF COORD_81 Coordinate { point [
+  54.251969 -41.01378 0.31496063,54.247473 -40.99118 0.31496063,
+  54.234672 -40.972021 0.31496063,54.215513 -40.95922 0.31496063,
+  54.192913 -40.954724 0.31496063,54.074803 -40.954724 0.31496063,
+  54.052204 -40.95922 0.31496063,54.033045 -40.972021 0.31496063,
+  54.020243 -40.99118 0.31496063,54.015748 -41.01378 0.31496063,
+  54.015748 -41.269685 0.31496063,54.020243 -41.292285 0.31496063,
+  54.033045 -41.311443 0.31496063,54.052204 -41.324245 0.31496063,
+  54.074803 -41.32874 0.31496063,54.192913 -41.32874 0.31496063,
+  54.215513 -41.324245 0.31496063,54.234672 -41.311443 0.31496063,
+  54.247473 -41.292285 0.31496063,54.251969 -41.269685 0.31496063,
+  53.927165 -41.082677 0.31496063,53.92267 -41.060078 0.31496063,
+  53.909869 -41.040919 0.31496063,53.89071 -41.028117 0.31496063,
+  53.86811 -41.023622 0.31496063,53.612205 -41.023622 0.31496063,
+  53.589605 -41.028117 0.31496063,53.570446 -41.040919 0.31496063,
+  53.557645 -41.060078 0.31496063,53.55315 -41.082677 0.31496063,
+  53.55315 -41.200787 0.31496063,53.557645 -41.223387 0.31496063,
+  53.570446 -41.242546 0.31496063,53.589605 -41.255347 0.31496063,
+  53.612205 -41.259843 0.31496063,53.86811 -41.259843 0.31496063,
+  53.89071 -41.255347 0.31496063,53.909869 -41.242546 0.31496063,
+  53.92267 -41.223387 0.31496063,53.927165 -41.200787 0.31496063,
+  54.714567 -41.082677 0.31496063,54.710072 -41.060078 0.31496063,
+  54.69727 -41.040919 0.31496063,54.678111 -41.028117 0.31496063,
+  54.655512 -41.023622 0.31496063,54.399606 -41.023622 0.31496063,
+  54.377007 -41.028117 0.31496063,54.357848 -41.040919 0.31496063,
+  54.345046 -41.060078 0.31496063,54.340551 -41.082677 0.31496063,
+  54.340551 -41.200787 0.31496063,54.345046 -41.223387 0.31496063,
+  54.357848 -41.242546 0.31496063,54.377007 -41.255347 0.31496063,
+  54.399606 -41.259843 0.31496063,54.655512 -41.259843 0.31496063,
+  54.678111 -41.255347 0.31496063,54.69727 -41.242546 0.31496063,
+  54.710072 -41.223387 0.31496063,54.714567 -41.200787 0.31496063,
+  53.927165 -40.767717 0.31496063,53.92267 -40.745117 0.31496063,
+  53.909869 -40.725958 0.31496063,53.89071 -40.713157 0.31496063,
+  53.86811 -40.708661 0.31496063,53.612205 -40.708661 0.31496063,
+  53.589605 -40.713157 0.31496063,53.570446 -40.725958 0.31496063,
+  53.557645 -40.745117 0.31496063,53.55315 -40.767717 0.31496063,
+  53.55315 -40.885827 0.31496063,53.557645 -40.908426 0.31496063,
+  53.570446 -40.927585 0.31496063,53.589605 -40.940387 0.31496063,
+  53.612205 -40.944882 0.31496063,53.86811 -40.944882 0.31496063,
+  53.89071 -40.940387 0.31496063,53.909869 -40.927585 0.31496063,
+  53.92267 -40.908426 0.31496063,53.927165 -40.885827 0.31496063,
+  54.714567 -40.767717 0.31496063,54.710072 -40.745117 0.31496063,
+  54.69727 -40.725958 0.31496063,54.678111 -40.713157 0.31496063,
+  54.655512 -40.708661 0.31496063,54.399606 -40.708661 0.31496063,
+  54.377007 -40.713157 0.31496063,54.357848 -40.725958 0.31496063,
+  54.345046 -40.745117 0.31496063,54.340551 -40.767717 0.31496063,
+  54.340551 -40.885827 0.31496063,54.345046 -40.908426 0.31496063,
+  54.357848 -40.927585 0.31496063,54.377007 -40.940387 0.31496063,
+  54.399606 -40.944882 0.31496063,54.655512 -40.944882 0.31496063,
+  54.678111 -40.940387 0.31496063,54.69727 -40.927585 0.31496063,
+  54.710072 -40.908426 0.31496063,54.714567 -40.885827 0.31496063,
+  53.927165 -40.452756 0.31496063,53.92267 -40.430156 0.31496063,
+  53.909869 -40.410998 0.31496063,53.89071 -40.398196 0.31496063,
+  53.86811 -40.393701 0.31496063,53.612205 -40.393701 0.31496063,
+  53.589605 -40.398196 0.31496063,53.570446 -40.410998 0.31496063,
+  53.557645 -40.430156 0.31496063,53.55315 -40.452756 0.31496063,
+  53.55315 -40.570866 0.31496063,53.557645 -40.593466 0.31496063,
+  53.570446 -40.612624 0.31496063,53.589605 -40.625426 0.31496063,
+  53.612205 -40.629921 0.31496063,53.86811 -40.629921 0.31496063,
+  53.89071 -40.625426 0.31496063,53.909869 -40.612624 0.31496063,
+  53.92267 -40.593466 0.31496063,53.927165 -40.570866 0.31496063,
+  54.714567 -40.452756 0.31496063,54.710072 -40.430156 0.31496063,
+  54.69727 -40.410998 0.31496063,54.678111 -40.398196 0.31496063,
+  54.655512 -40.393701 0.31496063,54.399606 -40.393701 0.31496063,
+  54.377007 -40.398196 0.31496063,54.357848 -40.410998 0.31496063,
+  54.345046 -40.430156 0.31496063,54.340551 -40.452756 0.31496063,
+  54.340551 -40.570866 0.31496063,54.345046 -40.593466 0.31496063,
+  54.357848 -40.612624 0.31496063,54.377007 -40.625426 0.31496063,
+  54.399606 -40.629921 0.31496063,54.655512 -40.629921 0.31496063,
+  54.678111 -40.625426 0.31496063,54.69727 -40.612624 0.31496063,
+  54.710072 -40.593466 0.31496063,54.714567 -40.570866 0.31496063,
+  53.927165 -40.137795 0.31496063,53.92267 -40.115196 0.31496063,
+  53.909869 -40.096037 0.31496063,53.89071 -40.083235 0.31496063,
+  53.86811 -40.07874 0.31496063,53.612205 -40.07874 0.31496063,
+  53.589605 -40.083235 0.31496063,53.570446 -40.096037 0.31496063,
+  53.557645 -40.115196 0.31496063,53.55315 -40.137795 0.31496063,
+  53.55315 -40.255906 0.31496063,53.557645 -40.278505 0.31496063,
+  53.570446 -40.297664 0.31496063,53.589605 -40.310465 0.31496063,
+  53.612205 -40.314961 0.31496063,53.86811 -40.314961 0.31496063,
+  53.89071 -40.310465 0.31496063,53.909869 -40.297664 0.31496063,
+  53.92267 -40.278505 0.31496063,53.927165 -40.255906 0.31496063,
+  54.714567 -40.137795 0.31496063,54.710072 -40.115196 0.31496063,
+  54.69727 -40.096037 0.31496063,54.678111 -40.083235 0.31496063,
+  54.655512 -40.07874 0.31496063,54.399606 -40.07874 0.31496063,
+  54.377007 -40.083235 0.31496063,54.357848 -40.096037 0.31496063,
+  54.345046 -40.115196 0.31496063,54.340551 -40.137795 0.31496063,
+  54.340551 -40.255906 0.31496063,54.345046 -40.278505 0.31496063,
+  54.357848 -40.297664 0.31496063,54.377007 -40.310465 0.31496063,
+  54.399606 -40.314961 0.31496063,54.655512 -40.314961 0.31496063,
+  54.678111 -40.310465 0.31496063,54.69727 -40.297664 0.31496063,
+  54.710072 -40.278505 0.31496063,54.714567 -40.255906 0.31496063,
+  53.927165 -39.822835 0.31496063,53.92267 -39.800235 0.31496063,
+  53.909869 -39.781076 0.31496063,53.89071 -39.768275 0.31496063,
+  53.86811 -39.76378 0.31496063,53.612205 -39.76378 0.31496063,
+  53.589605 -39.768275 0.31496063,53.570446 -39.781076 0.31496063,
+  53.557645 -39.800235 0.31496063,53.55315 -39.822835 0.31496063,
+  53.55315 -39.940945 0.31496063,53.557645 -39.963544 0.31496063,
+  53.570446 -39.982703 0.31496063,53.589605 -39.995505 0.31496063,
+  53.612205 -40 0.31496063,53.86811 -40 0.31496063,
+  53.89071 -39.995505 0.31496063,53.909869 -39.982703 0.31496063,
+  53.92267 -39.963544 0.31496063,53.927165 -39.940945 0.31496063,
+  54.714567 -39.822835 0.31496063,54.710072 -39.800235 0.31496063,
+  54.69727 -39.781076 0.31496063,54.678111 -39.768275 0.31496063,
+  54.655512 -39.76378 0.31496063,54.399606 -39.76378 0.31496063,
+  54.377007 -39.768275 0.31496063,54.357848 -39.781076 0.31496063,
+  54.345046 -39.800235 0.31496063,54.340551 -39.822835 0.31496063,
+  54.340551 -39.940945 0.31496063,54.345046 -39.963544 0.31496063,
+  54.357848 -39.982703 0.31496063,54.377007 -39.995505 0.31496063,
+  54.399606 -40 0.31496063,54.655512 -40 0.31496063,
+  54.678111 -39.995505 0.31496063,54.69727 -39.982703 0.31496063,
+  54.710072 -39.963544 0.31496063,54.714567 -39.940945 0.31496063,
+  54.251969 -39.438976 0.31496063,54.247473 -39.416377 0.31496063,
+  54.234672 -39.397218 0.31496063,54.215513 -39.384417 0.31496063,
+  54.192913 -39.379921 0.31496063,54.074803 -39.379921 0.31496063,
+  54.052204 -39.384417 0.31496063,54.033045 -39.397218 0.31496063,
+  54.020243 -39.416377 0.31496063,54.015748 -39.438976 0.31496063,
+  54.015748 -39.694882 0.31496063,54.020243 -39.717481 0.31496063,
+  54.033045 -39.73664 0.31496063,54.052204 -39.749442 0.31496063,
+  54.074803 -39.753937 0.31496063,54.192913 -39.753937 0.31496063,
+  54.215513 -39.749442 0.31496063,54.234672 -39.73664 0.31496063,
+  54.247473 -39.717481 0.31496063,54.251969 -39.694882 0.31496063,
+  53.927165 -39.507874 0.31496063,53.92267 -39.485274 0.31496063,
+  53.909869 -39.466116 0.31496063,53.89071 -39.453314 0.31496063,
+  53.86811 -39.448819 0.31496063,53.612205 -39.448819 0.31496063,
+  53.589605 -39.453314 0.31496063,53.570446 -39.466116 0.31496063,
+  53.557645 -39.485274 0.31496063,53.55315 -39.507874 0.31496063,
+  53.55315 -39.625984 0.31496063,53.557645 -39.648584 0.31496063,
+  53.570446 -39.667743 0.31496063,53.589605 -39.680544 0.31496063,
+  53.612205 -39.685039 0.31496063,53.86811 -39.685039 0.31496063,
+  53.89071 -39.680544 0.31496063,53.909869 -39.667743 0.31496063,
+  53.92267 -39.648584 0.31496063,53.927165 -39.625984 0.31496063,
+  54.714567 -39.507874 0.31496063,54.710072 -39.485274 0.31496063,
+  54.69727 -39.466116 0.31496063,54.678111 -39.453314 0.31496063,
+  54.655512 -39.448819 0.31496063,54.399606 -39.448819 0.31496063,
+  54.377007 -39.453314 0.31496063,54.357848 -39.466116 0.31496063,
+  54.345046 -39.485274 0.31496063,54.340551 -39.507874 0.31496063,
+  54.340551 -39.625984 0.31496063,54.345046 -39.648584 0.31496063,
+  54.357848 -39.667743 0.31496063,54.377007 -39.680544 0.31496063,
+  54.399606 -39.685039 0.31496063,54.655512 -39.685039 0.31496063,
+  54.678111 -39.680544 0.31496063,54.69727 -39.667743 0.31496063,
+  54.710072 -39.648584 0.31496063,54.714567 -39.625984 0.31496063] }
+ coordIndex [
+  9,11,8,-1,8,11,12,-1,8,12,7,-1,7,12,13,-1,7,13,6,-1,6,13,14,-1,6,14,5,-1,5,14,15,-1,
+  5,15,4,-1,4,15,16,-1,4,16,3,-1,3,16,17,-1,3,17,2,-1,2,17,18,-1,2,18,1,-1,1,18,19,-1,
+  1,19,0,-1,29,31,28,-1,28,31,32,-1,28,32,27,-1,27,32,33,-1,27,33,26,-1,26,33,34,-1,26,34,25,-1,
+  25,34,35,-1,25,35,24,-1,24,35,36,-1,24,36,23,-1,23,36,37,-1,23,37,22,-1,22,37,38,-1,22,38,21,-1,
+  21,38,39,-1,21,39,20,-1,49,51,48,-1,48,51,52,-1,48,52,47,-1,47,52,53,-1,47,53,46,-1,46,53,54,-1,
+  46,54,45,-1,45,54,55,-1,45,55,44,-1,44,55,56,-1,44,56,43,-1,43,56,57,-1,43,57,42,-1,42,57,58,-1,
+  42,58,41,-1,41,58,59,-1,41,59,40,-1,69,71,68,-1,68,71,72,-1,68,72,67,-1,67,72,73,-1,67,73,66,-1,
+  66,73,74,-1,66,74,65,-1,65,74,75,-1,65,75,64,-1,64,75,76,-1,64,76,63,-1,63,76,77,-1,63,77,62,-1,
+  62,77,78,-1,62,78,61,-1,61,78,79,-1,61,79,60,-1,89,91,88,-1,88,91,92,-1,88,92,87,-1,87,92,93,-1,
+  87,93,86,-1,86,93,94,-1,86,94,85,-1,85,94,95,-1,85,95,84,-1,84,95,96,-1,84,96,83,-1,83,96,97,-1,
+  83,97,82,-1,82,97,98,-1,82,98,81,-1,81,98,99,-1,81,99,80,-1,109,111,108,-1,108,111,112,-1,108,112,107,-1,
+  107,112,113,-1,107,113,106,-1,106,113,114,-1,106,114,105,-1,105,114,115,-1,105,115,104,-1,104,115,116,-1,104,116,103,-1,
+  103,116,117,-1,103,117,102,-1,102,117,118,-1,102,118,101,-1,101,118,119,-1,101,119,100,-1,129,131,128,-1,128,131,132,-1,
+  128,132,127,-1,127,132,133,-1,127,133,126,-1,126,133,134,-1,126,134,125,-1,125,134,135,-1,125,135,124,-1,124,135,136,-1,
+  124,136,123,-1,123,136,137,-1,123,137,122,-1,122,137,138,-1,122,138,121,-1,121,138,139,-1,121,139,120,-1,149,151,148,-1,
+  148,151,152,-1,148,152,147,-1,147,152,153,-1,147,153,146,-1,146,153,154,-1,146,154,145,-1,145,154,155,-1,145,155,144,-1,
+  144,155,156,-1,144,156,143,-1,143,156,157,-1,143,157,142,-1,142,157,158,-1,142,158,141,-1,141,158,159,-1,141,159,140,-1,
+  169,171,168,-1,168,171,172,-1,168,172,167,-1,167,172,173,-1,167,173,166,-1,166,173,174,-1,166,174,165,-1,165,174,175,-1,
+  165,175,164,-1,164,175,176,-1,164,176,163,-1,163,176,177,-1,163,177,162,-1,162,177,178,-1,162,178,161,-1,161,178,179,-1,
+  161,179,160,-1,189,191,188,-1,188,191,192,-1,188,192,187,-1,187,192,193,-1,187,193,186,-1,186,193,194,-1,186,194,185,-1,
+  185,194,195,-1,185,195,184,-1,184,195,196,-1,184,196,183,-1,183,196,197,-1,183,197,182,-1,182,197,198,-1,182,198,181,-1,
+  181,198,199,-1,181,199,180,-1,209,211,208,-1,208,211,212,-1,208,212,207,-1,207,212,213,-1,207,213,206,-1,206,213,214,-1,
+  206,214,205,-1,205,214,215,-1,205,215,204,-1,204,215,216,-1,204,216,203,-1,203,216,217,-1,203,217,202,-1,202,217,218,-1,
+  202,218,201,-1,201,218,219,-1,201,219,200,-1,229,231,228,-1,228,231,232,-1,228,232,227,-1,227,232,233,-1,227,233,226,-1,
+  226,233,234,-1,226,234,225,-1,225,234,235,-1,225,235,224,-1,224,235,236,-1,224,236,223,-1,223,236,237,-1,223,237,222,-1,
+  222,237,238,-1,222,238,221,-1,221,238,239,-1,221,239,220,-1,249,251,248,-1,248,251,252,-1,248,252,247,-1,247,252,253,-1,
+  247,253,246,-1,246,253,254,-1,246,254,245,-1,245,254,255,-1,245,255,244,-1,244,255,256,-1,244,256,243,-1,243,256,257,-1,
+  243,257,242,-1,242,257,258,-1,242,258,241,-1,241,258,259,-1,241,259,240,-1,269,271,268,-1,268,271,272,-1,268,272,267,-1,
+  267,272,273,-1,267,273,266,-1,266,273,274,-1,266,274,265,-1,265,274,275,-1,265,275,264,-1,264,275,276,-1,264,276,263,-1,
+  263,276,277,-1,263,277,262,-1,262,277,278,-1,262,278,261,-1,261,278,279,-1,261,279,260,-1,271,269,270,-1,251,249,250,-1,
+  231,229,230,-1,211,209,210,-1,191,189,190,-1,171,169,170,-1,151,149,150,-1,131,129,130,-1,111,109,110,-1,91,89,90,-1,
+  71,69,70,-1,51,49,50,-1,31,29,30,-1,11,9,10,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_81 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+DEF TXFM_84 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_82 Shape {
+ appearance DEF APP_6 Appearance {
+  material Material {
+   ambientIntensity 1
+   diffuseColor 0.5 0.5 0.5
+   emissiveColor 0 0 0
+   shininess 0.69999999
+   specularColor 0.80000001 0.80000001 0.80000001
+   transparency 0
+} }
+ geometry DEF FACE_82 IndexedFaceSet {
+  coord DEF COORD_82 Coordinate { point [
+  54.251969 -41.01378 0.31988189,54.247473 -40.99118 0.31988189,
+  54.234672 -40.972021 0.31988189,54.215513 -40.95922 0.31988189,
+  54.192913 -40.954724 0.31988189,54.074803 -40.954724 0.31988189,
+  54.052204 -40.95922 0.31988189,54.033045 -40.972021 0.31988189,
+  54.020243 -40.99118 0.31988189,54.015748 -41.01378 0.31988189,
+  54.015748 -41.269685 0.31988189,54.020243 -41.292285 0.31988189,
+  54.033045 -41.311443 0.31988189,54.052204 -41.324245 0.31988189,
+  54.074803 -41.32874 0.31988189,54.192913 -41.32874 0.31988189,
+  54.215513 -41.324245 0.31988189,54.234672 -41.311443 0.31988189,
+  54.247473 -41.292285 0.31988189,54.251969 -41.269685 0.31988189,
+  53.927165 -41.082677 0.31988189,53.92267 -41.060078 0.31988189,
+  53.909869 -41.040919 0.31988189,53.89071 -41.028117 0.31988189,
+  53.86811 -41.023622 0.31988189,53.612205 -41.023622 0.31988189,
+  53.589605 -41.028117 0.31988189,53.570446 -41.040919 0.31988189,
+  53.557645 -41.060078 0.31988189,53.55315 -41.082677 0.31988189,
+  53.55315 -41.200787 0.31988189,53.557645 -41.223387 0.31988189,
+  53.570446 -41.242546 0.31988189,53.589605 -41.255347 0.31988189,
+  53.612205 -41.259843 0.31988189,53.86811 -41.259843 0.31988189,
+  53.89071 -41.255347 0.31988189,53.909869 -41.242546 0.31988189,
+  53.92267 -41.223387 0.31988189,53.927165 -41.200787 0.31988189,
+  54.714567 -41.082677 0.31988189,54.710072 -41.060078 0.31988189,
+  54.69727 -41.040919 0.31988189,54.678111 -41.028117 0.31988189,
+  54.655512 -41.023622 0.31988189,54.399606 -41.023622 0.31988189,
+  54.377007 -41.028117 0.31988189,54.357848 -41.040919 0.31988189,
+  54.345046 -41.060078 0.31988189,54.340551 -41.082677 0.31988189,
+  54.340551 -41.200787 0.31988189,54.345046 -41.223387 0.31988189,
+  54.357848 -41.242546 0.31988189,54.377007 -41.255347 0.31988189,
+  54.399606 -41.259843 0.31988189,54.655512 -41.259843 0.31988189,
+  54.678111 -41.255347 0.31988189,54.69727 -41.242546 0.31988189,
+  54.710072 -41.223387 0.31988189,54.714567 -41.200787 0.31988189,
+  53.927165 -40.767717 0.31988189,53.92267 -40.745117 0.31988189,
+  53.909869 -40.725958 0.31988189,53.89071 -40.713157 0.31988189,
+  53.86811 -40.708661 0.31988189,53.612205 -40.708661 0.31988189,
+  53.589605 -40.713157 0.31988189,53.570446 -40.725958 0.31988189,
+  53.557645 -40.745117 0.31988189,53.55315 -40.767717 0.31988189,
+  53.55315 -40.885827 0.31988189,53.557645 -40.908426 0.31988189,
+  53.570446 -40.927585 0.31988189,53.589605 -40.940387 0.31988189,
+  53.612205 -40.944882 0.31988189,53.86811 -40.944882 0.31988189,
+  53.89071 -40.940387 0.31988189,53.909869 -40.927585 0.31988189,
+  53.92267 -40.908426 0.31988189,53.927165 -40.885827 0.31988189,
+  54.714567 -40.767717 0.31988189,54.710072 -40.745117 0.31988189,
+  54.69727 -40.725958 0.31988189,54.678111 -40.713157 0.31988189,
+  54.655512 -40.708661 0.31988189,54.399606 -40.708661 0.31988189,
+  54.377007 -40.713157 0.31988189,54.357848 -40.725958 0.31988189,
+  54.345046 -40.745117 0.31988189,54.340551 -40.767717 0.31988189,
+  54.340551 -40.885827 0.31988189,54.345046 -40.908426 0.31988189,
+  54.357848 -40.927585 0.31988189,54.377007 -40.940387 0.31988189,
+  54.399606 -40.944882 0.31988189,54.655512 -40.944882 0.31988189,
+  54.678111 -40.940387 0.31988189,54.69727 -40.927585 0.31988189,
+  54.710072 -40.908426 0.31988189,54.714567 -40.885827 0.31988189,
+  53.927165 -40.452756 0.31988189,53.92267 -40.430156 0.31988189,
+  53.909869 -40.410998 0.31988189,53.89071 -40.398196 0.31988189,
+  53.86811 -40.393701 0.31988189,53.612205 -40.393701 0.31988189,
+  53.589605 -40.398196 0.31988189,53.570446 -40.410998 0.31988189,
+  53.557645 -40.430156 0.31988189,53.55315 -40.452756 0.31988189,
+  53.55315 -40.570866 0.31988189,53.557645 -40.593466 0.31988189,
+  53.570446 -40.612624 0.31988189,53.589605 -40.625426 0.31988189,
+  53.612205 -40.629921 0.31988189,53.86811 -40.629921 0.31988189,
+  53.89071 -40.625426 0.31988189,53.909869 -40.612624 0.31988189,
+  53.92267 -40.593466 0.31988189,53.927165 -40.570866 0.31988189,
+  54.714567 -40.452756 0.31988189,54.710072 -40.430156 0.31988189,
+  54.69727 -40.410998 0.31988189,54.678111 -40.398196 0.31988189,
+  54.655512 -40.393701 0.31988189,54.399606 -40.393701 0.31988189,
+  54.377007 -40.398196 0.31988189,54.357848 -40.410998 0.31988189,
+  54.345046 -40.430156 0.31988189,54.340551 -40.452756 0.31988189,
+  54.340551 -40.570866 0.31988189,54.345046 -40.593466 0.31988189,
+  54.357848 -40.612624 0.31988189,54.377007 -40.625426 0.31988189,
+  54.399606 -40.629921 0.31988189,54.655512 -40.629921 0.31988189,
+  54.678111 -40.625426 0.31988189,54.69727 -40.612624 0.31988189,
+  54.710072 -40.593466 0.31988189,54.714567 -40.570866 0.31988189,
+  53.927165 -40.137795 0.31988189,53.92267 -40.115196 0.31988189,
+  53.909869 -40.096037 0.31988189,53.89071 -40.083235 0.31988189,
+  53.86811 -40.07874 0.31988189,53.612205 -40.07874 0.31988189,
+  53.589605 -40.083235 0.31988189,53.570446 -40.096037 0.31988189,
+  53.557645 -40.115196 0.31988189,53.55315 -40.137795 0.31988189,
+  53.55315 -40.255906 0.31988189,53.557645 -40.278505 0.31988189,
+  53.570446 -40.297664 0.31988189,53.589605 -40.310465 0.31988189,
+  53.612205 -40.314961 0.31988189,53.86811 -40.314961 0.31988189,
+  53.89071 -40.310465 0.31988189,53.909869 -40.297664 0.31988189,
+  53.92267 -40.278505 0.31988189,53.927165 -40.255906 0.31988189,
+  54.714567 -40.137795 0.31988189,54.710072 -40.115196 0.31988189,
+  54.69727 -40.096037 0.31988189,54.678111 -40.083235 0.31988189,
+  54.655512 -40.07874 0.31988189,54.399606 -40.07874 0.31988189,
+  54.377007 -40.083235 0.31988189,54.357848 -40.096037 0.31988189,
+  54.345046 -40.115196 0.31988189,54.340551 -40.137795 0.31988189,
+  54.340551 -40.255906 0.31988189,54.345046 -40.278505 0.31988189,
+  54.357848 -40.297664 0.31988189,54.377007 -40.310465 0.31988189,
+  54.399606 -40.314961 0.31988189,54.655512 -40.314961 0.31988189,
+  54.678111 -40.310465 0.31988189,54.69727 -40.297664 0.31988189,
+  54.710072 -40.278505 0.31988189,54.714567 -40.255906 0.31988189,
+  53.927165 -39.822835 0.31988189,53.92267 -39.800235 0.31988189,
+  53.909869 -39.781076 0.31988189,53.89071 -39.768275 0.31988189,
+  53.86811 -39.76378 0.31988189,53.612205 -39.76378 0.31988189,
+  53.589605 -39.768275 0.31988189,53.570446 -39.781076 0.31988189,
+  53.557645 -39.800235 0.31988189,53.55315 -39.822835 0.31988189,
+  53.55315 -39.940945 0.31988189,53.557645 -39.963544 0.31988189,
+  53.570446 -39.982703 0.31988189,53.589605 -39.995505 0.31988189,
+  53.612205 -40 0.31988189,53.86811 -40 0.31988189,
+  53.89071 -39.995505 0.31988189,53.909869 -39.982703 0.31988189,
+  53.92267 -39.963544 0.31988189,53.927165 -39.940945 0.31988189,
+  54.714567 -39.822835 0.31988189,54.710072 -39.800235 0.31988189,
+  54.69727 -39.781076 0.31988189,54.678111 -39.768275 0.31988189,
+  54.655512 -39.76378 0.31988189,54.399606 -39.76378 0.31988189,
+  54.377007 -39.768275 0.31988189,54.357848 -39.781076 0.31988189,
+  54.345046 -39.800235 0.31988189,54.340551 -39.822835 0.31988189,
+  54.340551 -39.940945 0.31988189,54.345046 -39.963544 0.31988189,
+  54.357848 -39.982703 0.31988189,54.377007 -39.995505 0.31988189,
+  54.399606 -40 0.31988189,54.655512 -40 0.31988189,
+  54.678111 -39.995505 0.31988189,54.69727 -39.982703 0.31988189,
+  54.710072 -39.963544 0.31988189,54.714567 -39.940945 0.31988189,
+  54.251969 -39.438976 0.31988189,54.247473 -39.416377 0.31988189,
+  54.234672 -39.397218 0.31988189,54.215513 -39.384417 0.31988189,
+  54.192913 -39.379921 0.31988189,54.074803 -39.379921 0.31988189,
+  54.052204 -39.384417 0.31988189,54.033045 -39.397218 0.31988189,
+  54.020243 -39.416377 0.31988189,54.015748 -39.438976 0.31988189,
+  54.015748 -39.694882 0.31988189,54.020243 -39.717481 0.31988189,
+  54.033045 -39.73664 0.31988189,54.052204 -39.749442 0.31988189,
+  54.074803 -39.753937 0.31988189,54.192913 -39.753937 0.31988189,
+  54.215513 -39.749442 0.31988189,54.234672 -39.73664 0.31988189,
+  54.247473 -39.717481 0.31988189,54.251969 -39.694882 0.31988189,
+  53.927165 -39.507874 0.31988189,53.92267 -39.485274 0.31988189,
+  53.909869 -39.466116 0.31988189,53.89071 -39.453314 0.31988189,
+  53.86811 -39.448819 0.31988189,53.612205 -39.448819 0.31988189,
+  53.589605 -39.453314 0.31988189,53.570446 -39.466116 0.31988189,
+  53.557645 -39.485274 0.31988189,53.55315 -39.507874 0.31988189,
+  53.55315 -39.625984 0.31988189,53.557645 -39.648584 0.31988189,
+  53.570446 -39.667743 0.31988189,53.589605 -39.680544 0.31988189,
+  53.612205 -39.685039 0.31988189,53.86811 -39.685039 0.31988189,
+  53.89071 -39.680544 0.31988189,53.909869 -39.667743 0.31988189,
+  53.92267 -39.648584 0.31988189,53.927165 -39.625984 0.31988189,
+  54.714567 -39.507874 0.31988189,54.710072 -39.485274 0.31988189,
+  54.69727 -39.466116 0.31988189,54.678111 -39.453314 0.31988189,
+  54.655512 -39.448819 0.31988189,54.399606 -39.448819 0.31988189,
+  54.377007 -39.453314 0.31988189,54.357848 -39.466116 0.31988189,
+  54.345046 -39.485274 0.31988189,54.340551 -39.507874 0.31988189,
+  54.340551 -39.625984 0.31988189,54.345046 -39.648584 0.31988189,
+  54.357848 -39.667743 0.31988189,54.377007 -39.680544 0.31988189,
+  54.399606 -39.685039 0.31988189,54.655512 -39.685039 0.31988189,
+  54.678111 -39.680544 0.31988189,54.69727 -39.667743 0.31988189,
+  54.710072 -39.648584 0.31988189,54.714567 -39.625984 0.31988189] }
+ coordIndex [
+  9,11,8,-1,8,11,12,-1,8,12,7,-1,7,12,13,-1,7,13,6,-1,6,13,14,-1,6,14,5,-1,5,14,15,-1,
+  5,15,4,-1,4,15,16,-1,4,16,3,-1,3,16,17,-1,3,17,2,-1,2,17,18,-1,2,18,1,-1,1,18,19,-1,
+  1,19,0,-1,29,31,28,-1,28,31,32,-1,28,32,27,-1,27,32,33,-1,27,33,26,-1,26,33,34,-1,26,34,25,-1,
+  25,34,35,-1,25,35,24,-1,24,35,36,-1,24,36,23,-1,23,36,37,-1,23,37,22,-1,22,37,38,-1,22,38,21,-1,
+  21,38,39,-1,21,39,20,-1,49,51,48,-1,48,51,52,-1,48,52,47,-1,47,52,53,-1,47,53,46,-1,46,53,54,-1,
+  46,54,45,-1,45,54,55,-1,45,55,44,-1,44,55,56,-1,44,56,43,-1,43,56,57,-1,43,57,42,-1,42,57,58,-1,
+  42,58,41,-1,41,58,59,-1,41,59,40,-1,69,71,68,-1,68,71,72,-1,68,72,67,-1,67,72,73,-1,67,73,66,-1,
+  66,73,74,-1,66,74,65,-1,65,74,75,-1,65,75,64,-1,64,75,76,-1,64,76,63,-1,63,76,77,-1,63,77,62,-1,
+  62,77,78,-1,62,78,61,-1,61,78,79,-1,61,79,60,-1,89,91,88,-1,88,91,92,-1,88,92,87,-1,87,92,93,-1,
+  87,93,86,-1,86,93,94,-1,86,94,85,-1,85,94,95,-1,85,95,84,-1,84,95,96,-1,84,96,83,-1,83,96,97,-1,
+  83,97,82,-1,82,97,98,-1,82,98,81,-1,81,98,99,-1,81,99,80,-1,109,111,108,-1,108,111,112,-1,108,112,107,-1,
+  107,112,113,-1,107,113,106,-1,106,113,114,-1,106,114,105,-1,105,114,115,-1,105,115,104,-1,104,115,116,-1,104,116,103,-1,
+  103,116,117,-1,103,117,102,-1,102,117,118,-1,102,118,101,-1,101,118,119,-1,101,119,100,-1,129,131,128,-1,128,131,132,-1,
+  128,132,127,-1,127,132,133,-1,127,133,126,-1,126,133,134,-1,126,134,125,-1,125,134,135,-1,125,135,124,-1,124,135,136,-1,
+  124,136,123,-1,123,136,137,-1,123,137,122,-1,122,137,138,-1,122,138,121,-1,121,138,139,-1,121,139,120,-1,149,151,148,-1,
+  148,151,152,-1,148,152,147,-1,147,152,153,-1,147,153,146,-1,146,153,154,-1,146,154,145,-1,145,154,155,-1,145,155,144,-1,
+  144,155,156,-1,144,156,143,-1,143,156,157,-1,143,157,142,-1,142,157,158,-1,142,158,141,-1,141,158,159,-1,141,159,140,-1,
+  169,171,168,-1,168,171,172,-1,168,172,167,-1,167,172,173,-1,167,173,166,-1,166,173,174,-1,166,174,165,-1,165,174,175,-1,
+  165,175,164,-1,164,175,176,-1,164,176,163,-1,163,176,177,-1,163,177,162,-1,162,177,178,-1,162,178,161,-1,161,178,179,-1,
+  161,179,160,-1,189,191,188,-1,188,191,192,-1,188,192,187,-1,187,192,193,-1,187,193,186,-1,186,193,194,-1,186,194,185,-1,
+  185,194,195,-1,185,195,184,-1,184,195,196,-1,184,196,183,-1,183,196,197,-1,183,197,182,-1,182,197,198,-1,182,198,181,-1,
+  181,198,199,-1,181,199,180,-1,209,211,208,-1,208,211,212,-1,208,212,207,-1,207,212,213,-1,207,213,206,-1,206,213,214,-1,
+  206,214,205,-1,205,214,215,-1,205,215,204,-1,204,215,216,-1,204,216,203,-1,203,216,217,-1,203,217,202,-1,202,217,218,-1,
+  202,218,201,-1,201,218,219,-1,201,219,200,-1,229,231,228,-1,228,231,232,-1,228,232,227,-1,227,232,233,-1,227,233,226,-1,
+  226,233,234,-1,226,234,225,-1,225,234,235,-1,225,235,224,-1,224,235,236,-1,224,236,223,-1,223,236,237,-1,223,237,222,-1,
+  222,237,238,-1,222,238,221,-1,221,238,239,-1,221,239,220,-1,249,251,248,-1,248,251,252,-1,248,252,247,-1,247,252,253,-1,
+  247,253,246,-1,246,253,254,-1,246,254,245,-1,245,254,255,-1,245,255,244,-1,244,255,256,-1,244,256,243,-1,243,256,257,-1,
+  243,257,242,-1,242,257,258,-1,242,258,241,-1,241,258,259,-1,241,259,240,-1,269,271,268,-1,268,271,272,-1,268,272,267,-1,
+  267,272,273,-1,267,273,266,-1,266,273,274,-1,266,274,265,-1,265,274,275,-1,265,275,264,-1,264,275,276,-1,264,276,263,-1,
+  263,276,277,-1,263,277,262,-1,262,277,278,-1,262,278,261,-1,261,278,279,-1,261,279,260,-1,271,269,270,-1,251,249,250,-1,
+  231,229,230,-1,211,209,210,-1,191,189,190,-1,171,169,170,-1,151,149,150,-1,131,129,130,-1,111,109,110,-1,91,89,90,-1,
+  71,69,70,-1,51,49,50,-1,31,29,30,-1,11,9,10,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_82 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+DEF TXFM_85 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_83 Shape {
+ appearance DEF APP_7 Appearance {
+  material Material {
+   ambientIntensity 1
+   diffuseColor 0.079999998 0.2 0.14
+   emissiveColor 0 0 0
+   shininess 0.30000001
+   specularColor 0.35600001 0.44 0.398
+   transparency 0.17
+} }
+ geometry DEF FACE_83 IndexedFaceSet {
+  coord DEF COORD_83 Coordinate { point [
+  53.927165 -39.507874 0.31988189,53.927165 -39.625984 0.31988189,
+  53.92267 -39.648584 0.31988189,53.909869 -39.667743 0.31988189,
+  53.89071 -39.680544 0.31988189,53.86811 -39.685039 0.31988189,
+  53.612205 -39.685039 0.31988189,53.589605 -39.680544 0.31988189,
+  53.570446 -39.667743 0.31988189,53.557645 -39.648584 0.31988189,
+  53.55315 -39.625984 0.31988189,53.55315 -39.507874 0.31988189,
+  53.557645 -39.485274 0.31988189,53.570446 -39.466116 0.31988189,
+  53.589605 -39.453314 0.31988189,53.612205 -39.448819 0.31988189,
+  53.86811 -39.448819 0.31988189,53.89071 -39.453314 0.31988189,
+  53.909869 -39.466116 0.31988189,53.92267 -39.485274 0.31988189,
+  54.015748 -39.694882 0.31988189,54.015748 -39.438976 0.31988189,
+  54.020243 -39.416377 0.31988189,54.033045 -39.397218 0.31988189,
+  54.052204 -39.384417 0.31988189,54.074803 -39.379921 0.31988189,
+  54.192913 -39.379921 0.31988189,54.215513 -39.384417 0.31988189,
+  54.234672 -39.397218 0.31988189,54.247473 -39.416377 0.31988189,
+  54.251969 -39.438976 0.31988189,54.251969 -39.625984 0.31988189,
+  54.251969 -39.694882 0.31988189,54.247473 -39.717481 0.31988189,
+  54.234672 -39.73664 0.31988189,54.215513 -39.749442 0.31988189,
+  54.192913 -39.753937 0.31988189,54.074803 -39.753937 0.31988189,
+  54.052204 -39.749442 0.31988189,54.033045 -39.73664 0.31988189,
+  54.020243 -39.717481 0.31988189,54.015748 -41.01378 0.31988189,
+  54.020243 -40.99118 0.31988189,54.033045 -40.972021 0.31988189,
+  54.052204 -40.95922 0.31988189,54.074803 -40.954724 0.31988189,
+  54.192913 -40.954724 0.31988189,54.215513 -40.95922 0.31988189,
+  54.234672 -40.972021 0.31988189,54.247473 -40.99118 0.31988189,
+  54.251969 -41.01378 0.31988189,54.251969 -41.200787 0.31988189,
+  54.251969 -41.269685 0.31988189,54.247473 -41.292285 0.31988189,
+  54.234672 -41.311443 0.31988189,54.215513 -41.324245 0.31988189,
+  54.192913 -41.32874 0.31988189,54.074803 -41.32874 0.31988189,
+  54.052204 -41.324245 0.31988189,54.033045 -41.311443 0.31988189,
+  54.020243 -41.292285 0.31988189,54.015748 -41.269685 0.31988189,
+  53.55315 -39.940945 0.31988189,53.55315 -39.822835 0.31988189,
+  53.557645 -39.800235 0.31988189,53.570446 -39.781076 0.31988189,
+  53.589605 -39.768275 0.31988189,53.612205 -39.76378 0.31988189,
+  53.86811 -39.76378 0.31988189,53.89071 -39.768275 0.31988189,
+  53.909869 -39.781076 0.31988189,53.92267 -39.800235 0.31988189,
+  53.927165 -39.822835 0.31988189,53.927165 -39.940945 0.31988189,
+  53.92267 -39.963544 0.31988189,53.909869 -39.982703 0.31988189,
+  53.89071 -39.995505 0.31988189,53.86811 -40 0.31988189,
+  53.612205 -40 0.31988189,53.589605 -39.995505 0.31988189,
+  53.570446 -39.982703 0.31988189,53.557645 -39.963544 0.31988189,
+  53.55315 -40.255906 0.31988189,53.55315 -40.137795 0.31988189,
+  53.557645 -40.115196 0.31988189,53.570446 -40.096037 0.31988189,
+  53.589605 -40.083235 0.31988189,53.612205 -40.07874 0.31988189,
+  53.86811 -40.07874 0.31988189,53.89071 -40.083235 0.31988189,
+  53.909869 -40.096037 0.31988189,53.92267 -40.115196 0.31988189,
+  53.927165 -40.137795 0.31988189,53.927165 -40.255906 0.31988189,
+  53.92267 -40.278505 0.31988189,53.909869 -40.297664 0.31988189,
+  53.89071 -40.310465 0.31988189,53.86811 -40.314961 0.31988189,
+  53.612205 -40.314961 0.31988189,53.589605 -40.310465 0.31988189,
+  53.570446 -40.297664 0.31988189,53.557645 -40.278505 0.31988189,
+  53.55315 -40.570866 0.31988189,53.55315 -40.452756 0.31988189,
+  53.557645 -40.430156 0.31988189,53.570446 -40.410998 0.31988189,
+  53.589605 -40.398196 0.31988189,53.612205 -40.393701 0.31988189,
+  53.86811 -40.393701 0.31988189,53.89071 -40.398196 0.31988189,
+  53.909869 -40.410998 0.31988189,53.92267 -40.430156 0.31988189,
+  53.927165 -40.452756 0.31988189,53.927165 -40.570866 0.31988189,
+  53.92267 -40.593466 0.31988189,53.909869 -40.612624 0.31988189,
+  53.89071 -40.625426 0.31988189,53.86811 -40.629921 0.31988189,
+  53.612205 -40.629921 0.31988189,53.589605 -40.625426 0.31988189,
+  53.570446 -40.612624 0.31988189,53.557645 -40.593466 0.31988189,
+  49.332115 -36.693898 0.31988189,49.332115 -39.625984 0.31988189,
+  49.332115 -39.694882 0.31988189,49.332115 -39.940945 0.31988189,
+  49.332115 -40.255906 0.31988189,49.332115 -40.570866 0.31988189,
+  49.332115 -40.885827 0.31988189,49.332115 -41.200787 0.31988189,
+  49.332115 -41.269685 0.31988189,49.332115 -42.073819 0.31988189,
+  58.935602 -42.073819 0.31988189,58.935602 -36.693898 0.31988189,
+  53.55315 -40.885827 0.31988189,53.55315 -40.767717 0.31988189,
+  53.557645 -40.745117 0.31988189,53.570446 -40.725958 0.31988189,
+  53.589605 -40.713157 0.31988189,53.612205 -40.708661 0.31988189,
+  53.86811 -40.708661 0.31988189,53.89071 -40.713157 0.31988189,
+  53.909869 -40.725958 0.31988189,53.92267 -40.745117 0.31988189,
+  53.927165 -40.767717 0.31988189,53.927165 -40.885827 0.31988189,
+  53.92267 -40.908426 0.31988189,53.909869 -40.927585 0.31988189,
+  53.89071 -40.940387 0.31988189,53.86811 -40.944882 0.31988189,
+  53.612205 -40.944882 0.31988189,53.589605 -40.940387 0.31988189,
+  53.570446 -40.927585 0.31988189,53.557645 -40.908426 0.31988189,
+  53.55315 -41.082677 0.31988189,53.557645 -41.060078 0.31988189,
+  53.570446 -41.040919 0.31988189,53.589605 -41.028117 0.31988189,
+  53.612205 -41.023622 0.31988189,53.86811 -41.023622 0.31988189,
+  53.89071 -41.028117 0.31988189,53.909869 -41.040919 0.31988189,
+  53.92267 -41.060078 0.31988189,53.927165 -41.082677 0.31988189,
+  53.927165 -41.200787 0.31988189,53.92267 -41.223387 0.31988189,
+  53.909869 -41.242546 0.31988189,53.89071 -41.255347 0.31988189,
+  53.86811 -41.259843 0.31988189,53.612205 -41.259843 0.31988189,
+  53.589605 -41.255347 0.31988189,53.570446 -41.242546 0.31988189,
+  53.557645 -41.223387 0.31988189,53.55315 -41.200787 0.31988189,
+  54.340551 -39.625984 0.31988189,54.340551 -39.507874 0.31988189,
+  54.345046 -39.485274 0.31988189,54.357848 -39.466116 0.31988189,
+  54.377007 -39.453314 0.31988189,54.399606 -39.448819 0.31988189,
+  54.655512 -39.448819 0.31988189,54.678111 -39.453314 0.31988189,
+  54.69727 -39.466116 0.31988189,54.710072 -39.485274 0.31988189,
+  54.714567 -39.507874 0.31988189,54.714567 -39.625984 0.31988189,
+  54.710072 -39.648584 0.31988189,54.69727 -39.667743 0.31988189,
+  54.678111 -39.680544 0.31988189,54.655512 -39.685039 0.31988189,
+  54.399606 -39.685039 0.31988189,54.377007 -39.680544 0.31988189,
+  54.357848 -39.667743 0.31988189,54.345046 -39.648584 0.31988189,
+  54.340551 -39.940945 0.31988189,54.340551 -39.822835 0.31988189,
+  54.345046 -39.800235 0.31988189,54.357848 -39.781076 0.31988189,
+  54.377007 -39.768275 0.31988189,54.399606 -39.76378 0.31988189,
+  54.655512 -39.76378 0.31988189,54.678111 -39.768275 0.31988189,
+  54.69727 -39.781076 0.31988189,54.710072 -39.800235 0.31988189,
+  54.714567 -39.822835 0.31988189,54.714567 -39.940945 0.31988189,
+  54.710072 -39.963544 0.31988189,54.69727 -39.982703 0.31988189,
+  54.678111 -39.995505 0.31988189,54.655512 -40 0.31988189,
+  54.399606 -40 0.31988189,54.377007 -39.995505 0.31988189,
+  54.357848 -39.982703 0.31988189,54.345046 -39.963544 0.31988189,
+  54.340551 -40.255906 0.31988189,54.340551 -40.137795 0.31988189,
+  54.345046 -40.115196 0.31988189,54.357848 -40.096037 0.31988189,
+  54.377007 -40.083235 0.31988189,54.399606 -40.07874 0.31988189,
+  54.655512 -40.07874 0.31988189,54.678111 -40.083235 0.31988189,
+  54.69727 -40.096037 0.31988189,54.710072 -40.115196 0.31988189,
+  54.714567 -40.137795 0.31988189,54.714567 -40.255906 0.31988189,
+  54.710072 -40.278505 0.31988189,54.69727 -40.297664 0.31988189,
+  54.678111 -40.310465 0.31988189,54.655512 -40.314961 0.31988189,
+  54.399606 -40.314961 0.31988189,54.377007 -40.310465 0.31988189,
+  54.357848 -40.297664 0.31988189,54.345046 -40.278505 0.31988189,
+  54.340551 -40.570866 0.31988189,54.340551 -40.452756 0.31988189,
+  54.345046 -40.430156 0.31988189,54.357848 -40.410998 0.31988189,
+  54.377007 -40.398196 0.31988189,54.399606 -40.393701 0.31988189,
+  54.655512 -40.393701 0.31988189,54.678111 -40.398196 0.31988189,
+  54.69727 -40.410998 0.31988189,54.710072 -40.430156 0.31988189,
+  54.714567 -40.452756 0.31988189,54.714567 -40.570866 0.31988189,
+  54.710072 -40.593466 0.31988189,54.69727 -40.612624 0.31988189,
+  54.678111 -40.625426 0.31988189,54.655512 -40.629921 0.31988189,
+  54.399606 -40.629921 0.31988189,54.377007 -40.625426 0.31988189,
+  54.357848 -40.612624 0.31988189,54.345046 -40.593466 0.31988189,
+  54.340551 -40.767717 0.31988189,54.345046 -40.745117 0.31988189,
+  54.357848 -40.725958 0.31988189,54.377007 -40.713157 0.31988189,
+  54.399606 -40.708661 0.31988189,54.655512 -40.708661 0.31988189,
+  54.678111 -40.713157 0.31988189,54.69727 -40.725958 0.31988189,
+  54.710072 -40.745117 0.31988189,54.714567 -40.767717 0.31988189,
+  54.714567 -40.885827 0.31988189,54.710072 -40.908426 0.31988189,
+  54.69727 -40.927585 0.31988189,54.678111 -40.940387 0.31988189,
+  54.655512 -40.944882 0.31988189,54.399606 -40.944882 0.31988189,
+  54.377007 -40.940387 0.31988189,54.357848 -40.927585 0.31988189,
+  54.345046 -40.908426 0.31988189,54.340551 -40.885827 0.31988189,
+  54.340551 -41.082677 0.31988189,54.345046 -41.060078 0.31988189,
+  54.357848 -41.040919 0.31988189,54.377007 -41.028117 0.31988189,
+  54.399606 -41.023622 0.31988189,54.655512 -41.023622 0.31988189,
+  54.678111 -41.028117 0.31988189,54.69727 -41.040919 0.31988189,
+  54.710072 -41.060078 0.31988189,54.714567 -41.082677 0.31988189,
+  54.714567 -41.200787 0.31988189,54.710072 -41.223387 0.31988189,
+  54.69727 -41.242546 0.31988189,54.678111 -41.255347 0.31988189,
+  54.655512 -41.259843 0.31988189,54.399606 -41.259843 0.31988189,
+  54.377007 -41.255347 0.31988189,54.357848 -41.242546 0.31988189,
+  54.345046 -41.223387 0.31988189,54.340551 -41.200787 0.31988189] }
+ coordIndex [
+  171,172,122,-1,122,172,173,-1,122,173,11,-1,11,173,154,-1,11,154,134,-1,134,154,155,-1,134,155,153,-1,153,155,156,-1,
+  153,156,152,-1,152,156,157,-1,152,157,151,-1,151,157,158,-1,151,158,150,-1,150,158,159,-1,150,159,149,-1,149,159,160,-1,
+  149,160,148,-1,148,160,161,-1,148,161,147,-1,147,161,162,-1,147,162,146,-1,146,162,163,-1,146,163,145,-1,145,163,60,-1,
+  145,60,61,-1,11,135,102,-1,102,135,136,-1,102,136,121,-1,121,136,137,-1,121,137,120,-1,120,137,138,-1,120,138,119,-1,
+  119,138,139,-1,119,139,118,-1,118,139,140,-1,118,140,117,-1,117,140,141,-1,117,141,116,-1,116,141,142,-1,116,142,115,-1,
+  115,142,143,-1,115,143,114,-1,114,143,144,-1,114,144,113,-1,113,144,61,-1,113,61,112,-1,112,61,93,-1,112,93,94,-1,
+  112,94,111,-1,111,94,95,-1,111,95,110,-1,110,95,96,-1,110,96,109,-1,109,96,97,-1,109,97,108,-1,108,97,98,-1,
+  108,98,107,-1,107,98,99,-1,107,99,106,-1,106,99,100,-1,106,100,105,-1,105,100,101,-1,105,101,104,-1,104,101,82,-1,
+  104,82,103,-1,103,82,11,-1,103,11,102,-1,11,83,62,-1,62,83,84,-1,62,84,81,-1,81,84,85,-1,81,85,80,-1,
+  80,85,86,-1,80,86,79,-1,79,86,87,-1,79,87,78,-1,78,87,88,-1,78,88,77,-1,77,88,89,-1,77,89,76,-1,
+  76,89,90,-1,76,90,75,-1,75,90,91,-1,75,91,74,-1,74,91,92,-1,74,92,73,-1,73,92,61,-1,73,61,72,-1,
+  72,61,1,-1,72,1,2,-1,72,2,71,-1,71,2,3,-1,71,3,70,-1,70,3,4,-1,70,4,69,-1,69,4,5,-1,
+  69,5,68,-1,68,5,6,-1,68,6,67,-1,67,6,7,-1,67,7,66,-1,66,7,8,-1,66,8,65,-1,65,8,9,-1,
+  65,9,64,-1,64,9,10,-1,64,10,63,-1,63,10,11,-1,63,11,62,-1,30,31,293,-1,293,31,32,-1,293,32,50,-1,
+  50,32,33,-1,50,33,49,-1,49,33,34,-1,49,34,48,-1,48,34,35,-1,48,35,47,-1,47,35,36,-1,47,36,46,-1,
+  46,36,37,-1,46,37,45,-1,45,37,38,-1,45,38,44,-1,44,38,39,-1,44,39,43,-1,43,39,40,-1,43,40,42,-1,
+  42,40,20,-1,42,20,41,-1,41,20,21,-1,41,21,61,-1,61,21,0,-1,61,0,1,-1,30,293,175,-1,175,293,274,-1,
+  175,274,273,-1,273,274,275,-1,273,275,272,-1,272,275,276,-1,272,276,271,-1,271,276,277,-1,271,277,270,-1,270,277,278,-1,
+  270,278,269,-1,269,278,279,-1,269,279,268,-1,268,279,280,-1,268,280,267,-1,267,280,281,-1,267,281,266,-1,266,281,282,-1,
+  266,282,265,-1,265,282,283,-1,265,283,264,-1,264,283,132,-1,264,132,263,-1,263,132,245,-1,263,245,246,-1,263,246,262,-1,
+  262,246,247,-1,262,247,261,-1,261,247,248,-1,261,248,260,-1,260,248,249,-1,260,249,259,-1,259,249,250,-1,259,250,258,-1,
+  258,250,251,-1,258,251,257,-1,257,251,252,-1,257,252,256,-1,256,252,253,-1,256,253,255,-1,255,253,234,-1,255,234,254,-1,
+  254,234,175,-1,254,175,273,-1,175,235,214,-1,214,235,236,-1,214,236,233,-1,233,236,237,-1,233,237,232,-1,232,237,238,-1,
+  232,238,231,-1,231,238,239,-1,231,239,230,-1,230,239,240,-1,230,240,229,-1,229,240,241,-1,229,241,228,-1,228,241,242,-1,
+  228,242,227,-1,227,242,243,-1,227,243,226,-1,226,243,244,-1,226,244,225,-1,225,244,132,-1,225,132,224,-1,224,132,205,-1,
+  224,205,206,-1,224,206,223,-1,223,206,207,-1,223,207,222,-1,222,207,208,-1,222,208,221,-1,221,208,209,-1,221,209,220,-1,
+  220,209,210,-1,220,210,219,-1,219,210,211,-1,219,211,218,-1,218,211,212,-1,218,212,217,-1,217,212,213,-1,217,213,216,-1,
+  216,213,194,-1,216,194,215,-1,215,194,175,-1,215,175,214,-1,182,183,133,-1,133,183,184,-1,133,184,132,-1,132,184,185,-1,
+  132,185,204,-1,204,185,186,-1,204,186,203,-1,203,186,187,-1,203,187,202,-1,202,187,188,-1,202,188,201,-1,201,188,189,-1,
+  201,189,200,-1,200,189,190,-1,200,190,199,-1,199,190,191,-1,199,191,198,-1,198,191,192,-1,198,192,197,-1,197,192,193,-1,
+  197,193,196,-1,196,193,174,-1,196,174,195,-1,195,174,175,-1,195,175,194,-1,133,122,14,-1,133,14,15,-1,133,15,16,-1,
+  133,16,17,-1,133,17,24,-1,133,24,25,-1,133,25,26,-1,133,26,27,-1,133,27,28,-1,133,28,29,-1,133,29,30,-1,
+  133,30,178,-1,133,178,179,-1,133,179,180,-1,133,180,181,-1,133,181,182,-1,30,175,176,-1,30,176,177,-1,30,177,178,-1,
+  18,19,23,-1,23,19,0,-1,23,0,22,-1,22,0,21,-1,24,17,18,-1,24,18,23,-1,122,11,12,-1,122,12,13,-1,
+  122,13,14,-1,132,283,284,-1,132,284,285,-1,132,285,286,-1,132,286,287,-1,132,287,288,-1,132,288,289,-1,132,289,52,-1,
+  132,52,53,-1,132,53,54,-1,132,54,55,-1,132,55,56,-1,132,56,57,-1,132,57,169,-1,132,169,128,-1,132,128,129,-1,
+  132,129,130,-1,132,130,131,-1,290,291,51,-1,51,291,292,-1,51,292,50,-1,50,292,293,-1,52,289,290,-1,52,290,51,-1,
+  164,165,59,-1,164,59,60,-1,164,60,163,-1,166,167,58,-1,166,58,59,-1,166,59,165,-1,58,167,168,-1,58,168,169,-1,
+  58,169,57,-1,123,124,170,-1,123,170,171,-1,123,171,122,-1,170,124,125,-1,170,125,126,-1,170,126,127,-1,170,127,169,-1,
+  128,169,127,-1,145,61,144,-1,93,61,92,-1,245,132,244,-1,205,132,204,-1,11,134,135,-1,11,82,83,-1,175,234,235,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_83 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+DEF TXFM_86 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_84 Shape {
+ appearance DEF APP_8 Appearance {
+  material Material {
+   ambientIntensity 1
+   diffuseColor 0.079999998 0.2 0.14
+   emissiveColor 0 0 0
+   shininess 0.30000001
+   specularColor 0.35600001 0.44 0.398
+   transparency 0.17
+} }
+ geometry DEF FACE_84 IndexedFaceSet {
+  coord DEF COORD_84 Coordinate { point [
+  58.935602 -36.693898 -0.31988189,49.332115 -36.693898 -0.31988189,
+  49.332115 -42.073819 -0.31988189,58.935602 -42.073819 -0.31988189] }
+ coordIndex [
+  1,0,2,-1,2,0,3,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_84 Normal { vector [
+  0 0 -1,0 0 -1,
+  0 0 -1,0 0 -1] }
+}
+}
+] }
+DEF TXFM_87 Transform {
+  center 0 0 0
+  rotation 0 0 1 0
+  scale 1 1 1
+  scaleOrientation 0 0 1 0
+  translation 0 0 0
+ children [
+DEF SHAPE_85 Shape {
+ appearance DEF APP_9 Appearance {
+  material Material {
+   ambientIntensity 0.74468082
+   diffuseColor 0.94 0.94 0.94
+   emissiveColor 0 0 0
+   shininess 0.02
+   specularColor 0.94599998 0.94599998 0.94599998
+   transparency 0
+} }
+ geometry DEF FACE_85 IndexedFaceSet {
+  coord DEF COORD_85 Coordinate { point [
+  53.937008 -41.38189 0.34448819,53.930089 -41.365187 0.34448819,
+  53.913386 -41.358268 0.34448819,53.5 -41.358268 0.34448819,
+  53.483297 -41.365187 0.34448819,53.476378 -41.38189 0.34448819,
+  53.483297 -41.398593 0.34448819,53.5 -41.405512 0.34448819,
+  53.913386 -41.405512 0.34448819,53.930089 -41.398593 0.34448819,
+  54.791339 -41.38189 0.34448819,54.78442 -41.365187 0.34448819,
+  54.767717 -41.358268 0.34448819,54.354331 -41.358268 0.34448819,
+  54.337628 -41.365187 0.34448819,54.330709 -41.38189 0.34448819,
+  54.337628 -41.398593 0.34448819,54.354331 -41.405512 0.34448819,
+  54.767717 -41.405512 0.34448819,54.78442 -41.398593 0.34448819,
+  54.791339 -39.326772 0.34448819,54.78442 -39.310069 0.34448819,
+  54.767717 -39.30315 0.34448819,54.354331 -39.30315 0.34448819,
+  54.337628 -39.310069 0.34448819,54.330709 -39.326772 0.34448819,
+  54.337628 -39.343475 0.34448819,54.354331 -39.350394 0.34448819,
+  54.767717 -39.350394 0.34448819,54.78442 -39.343475 0.34448819,
+  53.806149 -38.770365 0.34448819,53.804368 -38.780465 0.34448819,
+  53.804368 -39.099175 0.34448819,53.804972 -39.100834 0.34448819,
+  53.804562 -39.10255 0.34448819,53.807485 -39.11238 0.34448819,
+  53.826233 -39.149875 0.34448819,53.826701 -39.150319 0.34448819,
+  53.831764 -39.157549 0.34448819,53.850512 -39.176297 0.34448819,
+  53.851095 -39.176569 0.34448819,53.858186 -39.181828 0.34448819,
+  53.895681 -39.200576 0.34448819,53.897435 -39.200778 0.34448819,
+  53.898787 -39.201912 0.34448819,53.908886 -39.203693 0.34448819,
+  53.983877 -39.203693 0.34448819,53.985536 -39.203089 0.34448819,
+  53.987252 -39.203499 0.34448819,53.997082 -39.200576 0.34448819,
+  54.034577 -39.181828 0.34448819,54.03502 -39.18136 0.34448819,
+  54.042251 -39.176297 0.34448819,54.060999 -39.157549 0.34448819,
+  54.061271 -39.156966 0.34448819,54.06653 -39.149875 0.34448819,
+  54.085278 -39.11238 0.34448819,54.08548 -39.110626 0.34448819,
+  54.086614 -39.109274 0.34448819,54.088395 -39.099175 0.34448819,
+  54.088395 -38.780465 0.34448819,54.081487 -38.761485 0.34448819,
+  54.063995 -38.751385 0.34448819,54.044104 -38.754893 0.34448819,
+  54.03112 -38.770365 0.34448819,54.02934 -38.780465 0.34448819,
+  54.02934 -39.092204 0.34448819,54.015852 -39.119179 0.34448819,
+  54.003881 -39.13115 0.34448819,53.976906 -39.144638 0.34448819,
+  53.915857 -39.144638 0.34448819,53.888882 -39.13115 0.34448819,
+  53.876911 -39.119179 0.34448819,53.863423 -39.092204 0.34448819,
+  53.863423 -38.780465 0.34448819,53.856515 -38.761485 0.34448819,
+  53.839023 -38.751385 0.34448819,53.819132 -38.754893 0.34448819,
+  54.315514 -38.764085 0.34448819,54.279641 -38.817896 0.34448819,
+  54.247601 -38.849936 0.34448819,54.214391 -38.866541 0.34448819,
+  54.200505 -38.881207 0.34448819,54.199294 -38.901369 0.34448819,
+  54.211327 -38.917592 0.34448819,54.230972 -38.922285 0.34448819,
+  54.240802 -38.919361 0.34448819,54.278297 -38.900613 0.34448819,
+  54.27874 -38.900145 0.34448819,54.285971 -38.895082 0.34448819,
+  54.310555 -38.870498 0.34448819,54.310555 -39.144638 0.34448819,
+  54.227596 -39.144638 0.34448819,54.208617 -39.151546 0.34448819,
+  54.198517 -39.169038 0.34448819,54.202025 -39.188929 0.34448819,
+  54.217497 -39.201912 0.34448819,54.227596 -39.203693 0.34448819,
+  54.452568 -39.203693 0.34448819,54.471548 -39.196785 0.34448819,
+  54.481647 -39.179293 0.34448819,54.47814 -39.159402 0.34448819,
+  54.462667 -39.146419 0.34448819,54.452568 -39.144638 0.34448819,
+  54.36961 -39.144638 0.34448819,54.36961 -38.780465 0.34448819,
+  54.369029 -38.778869 0.34448819,54.369431 -38.777219 0.34448819,
+  54.365631 -38.769535 0.34448819,54.362702 -38.761485 0.34448819,
+  54.361231 -38.760636 0.34448819,54.360479 -38.759113 0.34448819,
+  54.35263 -38.75567 0.34448819,54.34521 -38.751385 0.34448819,
+  54.343538 -38.75168 0.34448819,54.341983 -38.750998 0.34448819,
+  54.333756 -38.753405 0.34448819,54.325319 -38.754893 0.34448819,
+  54.324228 -38.756193 0.34448819,54.322598 -38.75667 0.34448819] }
+ coordIndex [
+  5,6,4,-1,4,6,7,-1,4,7,3,-1,3,7,8,-1,3,8,2,-1,2,8,9,-1,2,9,1,-1,1,9,0,-1,
+  15,16,14,-1,14,16,17,-1,14,17,13,-1,13,17,18,-1,13,18,12,-1,12,18,19,-1,12,19,11,-1,11,19,10,-1,
+  25,26,24,-1,24,26,27,-1,24,27,23,-1,23,27,28,-1,23,28,22,-1,22,28,29,-1,22,29,21,-1,21,29,20,-1,
+  31,33,30,-1,30,33,35,-1,30,35,77,-1,77,35,36,-1,77,36,76,-1,76,36,37,-1,76,37,38,-1,71,72,42,-1,
+  42,72,73,-1,42,73,41,-1,41,73,74,-1,41,74,75,-1,75,76,39,-1,75,39,40,-1,75,40,41,-1,60,61,56,-1,
+  60,56,57,-1,60,57,58,-1,60,58,59,-1,53,54,62,-1,62,54,55,-1,62,55,61,-1,61,55,56,-1,63,64,50,-1,
+  63,50,51,-1,63,51,52,-1,63,52,53,-1,63,53,62,-1,50,64,65,-1,50,65,66,-1,50,66,67,-1,50,67,68,-1,
+  50,68,49,-1,68,69,46,-1,68,46,47,-1,68,47,48,-1,68,48,49,-1,70,71,42,-1,70,42,43,-1,70,43,44,-1,
+  70,44,45,-1,70,45,46,-1,70,46,69,-1,108,109,104,-1,108,104,106,-1,108,106,107,-1,99,100,101,-1,99,101,102,-1,
+  99,102,103,-1,99,103,98,-1,104,109,110,-1,104,110,111,-1,104,111,112,-1,104,112,113,-1,104,113,114,-1,104,114,115,-1,
+  104,115,116,-1,104,116,117,-1,104,117,118,-1,104,118,119,-1,104,119,78,-1,104,78,90,-1,104,90,91,-1,104,91,98,-1,
+  104,98,103,-1,92,93,96,-1,92,96,97,-1,92,97,98,-1,92,98,91,-1,93,94,95,-1,93,95,96,-1,87,88,79,-1,
+  79,88,89,-1,79,89,78,-1,78,89,90,-1,80,81,85,-1,80,85,86,-1,80,86,87,-1,80,87,79,-1,84,85,81,-1,
+  84,81,82,-1,84,82,83,-1,105,106,104,-1,35,33,34,-1,76,38,39,-1,33,31,32,-1]
+  normalPerVertex TRUE
+  normal DEF NORM_85 Normal { vector [
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1,
+  0 0 1,0 0 1] }
+}
+}
+] }
+] }

@@ -1,0 +1,11 @@
+### Module positions - created on Wed Oct 12 13:43:50 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                Package                                                PosX       PosY       Rot  Side
+J1        HEAD-I01-X-PI10-01_oom.lt/H10      PinHeader_1x10_P2.54mm_Vertical                    143.5700  -107.6200   90.0000  top
+J2        HEAD-I01-X-PI04-01_oom.lt/H4       PinHeader_1x04_P2.54mm_Vertical                    158.8100   -92.3800  -90.0000  top
+J3        HEAD-JSTSH-X-PI04-RS_oom.lt/HSHR4  JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal   142.6850  -102.0000  -90.0000  top
+J4        HEAD-JSTSH-X-PI04-RS_oom.lt/HSHR4  JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal   167.3150  -102.0000   90.0000  top
+U10       MODULE-CONN-BRBO-IBBC-SZ01         MODULE-CONN-BRBO-IBBC-SZ01                         155.0000  -137.5000    0.0000  top
+## End

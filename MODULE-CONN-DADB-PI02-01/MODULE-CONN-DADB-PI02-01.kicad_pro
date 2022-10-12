@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MODULE-CONN-DADB-PI2-01.kicad_pro",
+    "filename": "MODULE-CONN-DADB-PI02-01.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,8 +367,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "MODULE-CONN-DADB-PI02-01.step",
+      "vrml": "MODULE-CONN-DADB-PI02-01.wrl"
     },
     "page_layout_descr_file": ""
   },

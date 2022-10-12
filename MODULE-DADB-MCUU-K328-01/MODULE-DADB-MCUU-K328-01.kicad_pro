@@ -367,8 +367,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "MODULE-DADB-MCUU-K328-01.step",
+      "vrml": "MODULE-DADB-MCUU-K328-01.wrl"
     },
     "page_layout_descr_file": ""
   },

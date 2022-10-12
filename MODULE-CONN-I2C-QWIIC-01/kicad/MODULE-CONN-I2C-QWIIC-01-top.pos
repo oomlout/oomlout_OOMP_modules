@@ -1,0 +1,7 @@
+### Module positions - created on Wed Oct 12 14:12:22 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                Package                                                PosX       PosY       Rot  Side
+J1        HEAD-JSTSH-X-PI04-RS_oom.lt/HSHR4  JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal   146.8000   -97.4000    0.0000  top
+## End

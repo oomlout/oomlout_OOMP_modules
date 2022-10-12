@@ -1,0 +1,21 @@
+### Module positions - created on Wed Oct 12 14:19:28 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                       Package                                   PosX       PosY       Rot  Side
+C1        100nF                     C_0603_1608Metric                      -5.0000    10.0000    0.0000  top
+C2        4.7uF                     C_0603_1608Metric                       0.0000    10.0000    0.0000  top
+C3        1uF                       C_0603_1608Metric                      -5.0000     0.0000    0.0000  top
+C4        1uF                       C_0603_1608Metric                       0.0000     4.7800    0.0000  top
+D1        GREEN                     LED_0603_1608Metric                    10.0000     4.7800    0.0000  top
+R1        1k                        R_0603_1608Metric                      -5.0000    -5.0000    0.0000  top
+R2        1k                        R_0603_1608Metric                      -5.0000     5.0000    0.0000  top
+R3        1k                        R_0603_1608Metric                      -0.8250    10.0000    0.0000  top
+R4        1k                        R_0603_1608Metric                       0.0000     7.2900    0.0000  top
+SW1       SW_Push                   SW_SPST_B3U-1000P                      -5.0000   -10.0000    0.0000  top
+U1        MODULE-CONN-DADB-PI16-01  MODULE-CONN-DADB-PI16-01              -25.0000    20.0000    0.0000  top
+U2        MODULE-CONN-DADB-PI02-01  MODULE-CONN-DADB-PI02-01               20.0000    25.0000  -90.0000  top
+U3        ATmega328P-M              QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm     0.0000     0.0000    0.0000  top
+U4        MODULE-CONN-DADB-PI16-01  MODULE-CONN-DADB-PI16-01               25.0000   -20.0000  180.0000  top
+Y1        Crystal_GND2              PinHeader_1x03_P2.54mm_Vertical         5.0000    15.0000    0.0000  top
+## End

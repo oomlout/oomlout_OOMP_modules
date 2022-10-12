@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J4,J3";"JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal";2;"HEAD-JSTSH-X-PI04-RS oom.lt/HSHR4";;;
+2;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"HEAD-I01-X-PI04-01 oom.lt/H4";;;
+3;"U10";"MODULE-CONN-BRBO-IBBC-SZ01";1;"MODULE-CONN-BRBO-IBBC-SZ01";;;
+4;"H2,H1";"MountingHole_3.2mm_M3";2;"MountingHole";;;
+5;"J1";"PinHeader_1x10_P2.54mm_Vertical";1;"HEAD-I01-X-PI10-01 oom.lt/H10";;;
