@@ -1,0 +1,52 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "BRBO"
+        },
+        {
+            "name": "oompDesc",
+            "value": "IBBC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SZ01"
+        },
+        {
+            "name": "matchingBlock",
+            "value": "BLOCK-CONN-I2C-EXTRA-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "hexID",
+            "value": "MCBI1"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-BRBO-IBBC-SZ01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-BRBO-IBBC-SZ01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "POWE"
+        },
+        {
+            "name": "oompColor",
+            "value": "V12R"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BP123"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-POWE-V12R-V33D-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-POWE-V12R-V33D-01"
+        },
+        {
+            "name": "name",
+            "value": "3.3v"
+        }
+    ]
+}

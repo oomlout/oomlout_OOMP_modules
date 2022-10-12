@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "DADB"
+        },
+        {
+            "name": "oompColor",
+            "value": "MCUU"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K328"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MD328M"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-DADB-MCUU-K328-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-DADB-MCUU-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "AtMega328P"
+        }
+    ]
+}

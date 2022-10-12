@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "I2C"
+        },
+        {
+            "name": "oompDesc",
+            "value": "EXTRA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BCIE"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-I2C-EXTRA-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-I2C-EXTRA-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

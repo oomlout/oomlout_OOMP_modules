@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "SENS"
+        },
+        {
+            "name": "oompColor",
+            "value": "K345"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "matchingBlock",
+            "value": "BLOCK-SENS-ACCEL-I2C-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,SENS-LG14-X-K345-01"
+        },
+        {
+            "name": "hexID",
+            "value": "MS345"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-SENS-K345-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-SENS-K345-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

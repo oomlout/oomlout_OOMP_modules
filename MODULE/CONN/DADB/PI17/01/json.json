@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "DADB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI17"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MCD17"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-DADB-PI17-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-DADB-PI17-01"
+        },
+        {
+            "name": "name",
+            "value": "17 Pin"
+        }
+    ]
+}

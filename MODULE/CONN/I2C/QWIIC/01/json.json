@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "I2C"
+        },
+        {
+            "name": "oompDesc",
+            "value": "QWIIC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "matchingBlock",
+            "value": "BLOCK-CONN-I2C-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "hexID",
+            "value": "MCQ"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-I2C-QWIIC-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-I2C-QWIIC-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

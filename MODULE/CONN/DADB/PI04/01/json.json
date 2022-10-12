@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "DADB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MCD4"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-DADB-PI04-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-DADB-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "4 Pin"
+        }
+    ]
+}

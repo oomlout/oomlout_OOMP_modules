@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "SENS"
+        },
+        {
+            "name": "oompColor",
+            "value": "ACCEL"
+        },
+        {
+            "name": "oompDesc",
+            "value": "I2C"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BSAI"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-SENS-ACCEL-I2C-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-SENS-ACCEL-I2C-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
