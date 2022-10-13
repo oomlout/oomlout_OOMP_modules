@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "RASP"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PICO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2040"
+        },
+        {
+            "name": "hexID",
+            "value": "BCRP2040"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-RASP-PICO-2040"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-RASP-PICO-2040"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

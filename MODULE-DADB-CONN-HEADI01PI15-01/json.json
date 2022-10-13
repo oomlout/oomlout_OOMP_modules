@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "DADB"
+        },
+        {
+            "name": "oompColor",
+            "value": "CONN"
+        },
+        {
+            "name": "oompDesc",
+            "value": "HEADI01PI15"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MDCI15"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-DADB-CONN-HEADI01PI15-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-DADB-CONN-HEADI01PI15-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -10,47 +10,39 @@
         },
         {
             "name": "oompColor",
-            "value": "BRBO"
+            "value": "RASP"
         },
         {
             "name": "oompDesc",
-            "value": "IBBC"
+            "value": "PICO"
         },
         {
             "name": "oompIndex",
-            "value": "SZ01"
+            "value": "2040"
         },
         {
             "name": "matchingBlock",
-            "value": "BLOCK-CONN-I2C-EXTRA-01"
+            "value": "BLOCK-CONN-RASP-PICO-2040"
         },
         {
             "name": "oompParts",
-            "value": "J1,HEAD-I01-X-PI06-01"
+            "value": "J1,HEAD-I01-X-PI20-01"
         },
         {
             "name": "oompParts",
-            "value": "J2,HEAD-I01-X-PI06-01"
-        },
-        {
-            "name": "componentModules",
-            "value": "M1,MODULE-CONN-I2C-QWIIC-01"
-        },
-        {
-            "name": "componentModules",
-            "value": "M2,MODULE-CONN-I2C-QWIIC-01"
+            "value": "J2,HEAD-I01-X-PI20-01"
         },
         {
             "name": "hexID",
-            "value": "MCBI1"
+            "value": "MCRP2040"
         },
         {
             "name": "oompID",
-            "value": "MODULE-CONN-BRBO-IBBC-SZ01"
+            "value": "MODULE-CONN-RASP-PICO-2040"
         },
         {
             "name": "oompID",
-            "value": "MODULE-CONN-BRBO-IBBC-SZ01"
+            "value": "MODULE-CONN-RASP-PICO-2040"
         },
         {
             "name": "name",

@@ -7,10 +7,10 @@ newPart = OOMP.oompItem()
 
 oType = "MODULE"
 oSize = "CONN"
-oColor = "BRBO"
-oDesc = "IBBC"
-oIndex = "SZ01"
-hexId = "MCBI1"
+oColor = "RASP"
+oDesc = "PICO"
+oIndex = "2040"
+hexId = "MCRP2040"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -19,11 +19,9 @@ newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
-newPart.addTag('matchingBlock','BLOCK-CONN-I2C-EXTRA-01')
-newPart.addTag('oompParts','J1,HEAD-I01-X-PI06-01')
-newPart.addTag('oompParts','J2,HEAD-I01-X-PI06-01')
-newPart.addTag('componentModules','M1,MODULE-CONN-I2C-QWIIC-01')
-newPart.addTag('componentModules','M2,MODULE-CONN-I2C-QWIIC-01')
+newPart.addTag('matchingBlock','BLOCK-CONN-RASP-PICO-2040')
+newPart.addTag('oompParts','J1,HEAD-I01-X-PI20-01')
+newPart.addTag('oompParts','J2,HEAD-I01-X-PI20-01')
 
 
 ######  Common

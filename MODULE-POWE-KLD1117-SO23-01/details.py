@@ -6,11 +6,11 @@ import OOMPtags
 newPart = OOMP.oompItem()
 
 oType = "MODULE"
-oSize = "CONN"
-oColor = "BRBO"
-oDesc = "IBBC"
-oIndex = "SZ01"
-hexId = "MCBI1"
+oSize = "POWE"
+oColor = "KLD1117"
+oDesc = "SO23"
+oIndex = "01"
+hexId = "MP1117"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -19,11 +19,8 @@ newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
-newPart.addTag('matchingBlock','BLOCK-CONN-I2C-EXTRA-01')
-newPart.addTag('oompParts','J1,HEAD-I01-X-PI06-01')
-newPart.addTag('oompParts','J2,HEAD-I01-X-PI06-01')
-newPart.addTag('componentModules','M1,MODULE-CONN-I2C-QWIIC-01')
-newPart.addTag('componentModules','M2,MODULE-CONN-I2C-QWIIC-01')
+newPart.addTag('matchingBlock','BLOCK-POW-STAN-STAN-01')
+newPart.addTag('oompParts','U1,VREG-SO223-X-KLD1117-V33D')
 
 
 ######  Common

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "POWE"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BCP"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-POWE-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-POWE-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

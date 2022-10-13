@@ -45,6 +45,8 @@ Contents
 - matchingBlock: BLOCK-CONN-I2C-EXTRA-01
 - oompParts: J1,HEAD-I01-X-PI06-01
 - oompParts: J2,HEAD-I01-X-PI06-01
+- componentModules: M1,MODULE-CONN-I2C-QWIIC-01
+- componentModules: M2,MODULE-CONN-I2C-QWIIC-01
 - hexID: MCBI1
 - oompID: MODULE-CONN-BRBO-IBBC-SZ01
 

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "OOBB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "BA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BCOBA"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-OOBB-BA-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-CONN-OOBB-BA-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

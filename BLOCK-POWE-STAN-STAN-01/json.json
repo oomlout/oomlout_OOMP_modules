@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "BLOCK"
+        },
+        {
+            "name": "oompSize",
+            "value": "POWE"
+        },
+        {
+            "name": "oompColor",
+            "value": "STAN"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "BPS"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-POWE-STAN-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "BLOCK-POWE-STAN-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

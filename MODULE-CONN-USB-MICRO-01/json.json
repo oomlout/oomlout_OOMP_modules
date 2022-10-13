@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "USB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MICRO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,"
+        },
+        {
+            "name": "hexID",
+            "value": "MCUMC"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-USB-MICRO-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-USB-MICRO-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
