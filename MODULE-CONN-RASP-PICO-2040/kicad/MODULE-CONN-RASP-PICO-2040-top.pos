@@ -1,0 +1,10 @@
+### Module positions - created on Fri Oct 14 09:59:03 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                         Package                               PosX       PosY       Rot  Side
+J1        HEAD-I01-X-PI20-01          PinHeader_1x20_P2.54mm_Vertical   138.6500   -80.8100    0.0000  top
+J2        HEAD-I01-X-PI20-01          PinHeader_1x20_P2.54mm_Vertical   119.6200   -80.8100    0.0000  top
+Ref**     Val**                       silkscreen                        121.3700   -80.8100    0.0000  top
+U10       MODULE-CONN-RASP-PICO-2040  MODULE-CONN-RASP-PICO-2040        169.2927   -80.8100    0.0000  top
+## End

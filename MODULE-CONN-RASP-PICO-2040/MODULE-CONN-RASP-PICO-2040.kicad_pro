@@ -367,8 +367,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "MODULE-CONN-RASP-PICO-2040.step",
+      "vrml": "MODULE-CONN-RASP-PICO-2040.wrl"
     },
     "page_layout_descr_file": ""
   },

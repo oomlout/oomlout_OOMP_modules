@@ -1,0 +1,8 @@
+### Module positions - created on Fri Oct 14 09:51:54 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                               PosX       PosY       Rot  Side
+J1        HEAD-I01-X-PI03-01      PinHeader_1x03_P2.54mm_Vertical   138.7600   -92.6400    0.0000  top
+J10       MODULE-CONN-OOBB-BA-01  MODULE-CONN-OOBB-BA-01            164.1600   -92.6400    0.0000  top
+## End

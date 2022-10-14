@@ -1,0 +1,7 @@
+### Module positions - created on Fri Oct 14 10:06:19 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                       PosX       PosY       Rot  Side
+U1        MODULE-CONN-USB-MEGA-01  MODULE-CONN-USB-MEGA-01   125.5375   -72.0685    0.0000  top
+## End
