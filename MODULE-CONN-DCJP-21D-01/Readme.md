@@ -7,8 +7,10 @@ Contents
 
 * [MCD2 > ](#mcd2--)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
-
+  
+![][im]
 # MCD2 > 
 
 - ID: MODULE-CONN-DCJP-21D-01
@@ -25,6 +27,14 @@ Contents
 | :---: | :---: | :---: |
 |[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
 
+## Images
+  
+  
+
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|kicadSchem|
+| :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|
+
 ## Tags
 
 - oompType: MODULE
@@ -36,3 +46,7 @@ Contents
 - oompParts: J1,DCJP-21D-X-STAN-01
 - hexID: MCD2
 - oompID: MODULE-CONN-DCJP-21D-01
+
+
+
+[im]: kicadPcb3d_450.png

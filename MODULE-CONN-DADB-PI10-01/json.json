@@ -21,6 +21,22 @@
             "value": "01"
         },
         {
+            "name": "componentModules",
+            "value": "M1,MODULE-MCUU-K328-MUR-01"
+        },
+        {
+            "name": "componentModules",
+            "value": "M1,MODULE-CONN-DADB-PI03-01"
+        },
+        {
+            "name": "componentModules",
+            "value": "M2,MODULE-CONN-DADB-PI16-01"
+        },
+        {
+            "name": "componentModules",
+            "value": "M3,MODULE-CONN-DADB-PI16-01"
+        },
+        {
             "name": "hexID",
             "value": "MCD10"
         },
