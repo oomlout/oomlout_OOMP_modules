@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MODULE"
+        },
+        {
+            "name": "oompSize",
+            "value": "CONN"
+        },
+        {
+            "name": "oompColor",
+            "value": "USB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MEGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,"
+        },
+        {
+            "name": "hexID",
+            "value": "MCUMEGA"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-USB-MEGA-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MODULE-CONN-USB-MEGA-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
