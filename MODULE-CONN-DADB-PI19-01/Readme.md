@@ -24,9 +24,5 @@ Contents
 - oompColor: DADB
 - oompDesc: PI19
 - oompIndex: 01
-- componentModules: M1,MODULE-MCUU-K328-MUR-01
-- componentModules: M1,MODULE-CONN-DADB-PI03-01
-- componentModules: M2,MODULE-CONN-DADB-PI16-01
-- componentModules: M3,MODULE-CONN-DADB-PI16-01
 - hexID: MCD19
 - oompID: MODULE-CONN-DADB-PI19-01
